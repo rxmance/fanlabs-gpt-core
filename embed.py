@@ -1,42 +1,31 @@
-
-import openai
+from sentence_transformers import SentenceTransformer
+import json
 import faiss
 import numpy as np
-import json
-import os
-from pathlib import Path
 
-# Load API key from environment or paste here directly (not recommended long term)
-import os
-openai.api_key = os.getenv("OPENAI_API_KEY")
-# Load the text chunks
+# Load your chunks
 with open("fanlabs_chunks.json", "r") as f:
     chunks = json.load(f)
 
-# Embed using OpenAI text-embedding-3-small
-def get_embedding(text):
-    response = openai.embeddings.create(
-        model="text-embedding-3-small",
-        input=text,
-        encoding_format="float"
-    )
-    return response.data[0].embedding
+# Load model
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
-# Create and populate FAISS index
-dimension = 1536
-index = faiss.IndexFlatL2(dimension)
+vectors = []
 metadata = []
 
-for chunk in chunks:
-    vector = np.array(get_embedding(chunk["text"]), dtype="float32")
-    index.add(np.array([vector]))
-    metadata.append(chunk)
+# Embed each chunk
+for i, chunk in enumerate(chunks):
+    vector = model.encode(chunk["text"])
+    vectors.append(vector)
+    metadata.append({"id": i, "text": chunk["text"]})
 
-# Save vector index
+# Convert to FAISS index
+index = faiss.IndexFlatL2(len(vectors[0]))
+index.add(np.array(vectors).astype("float32"))
+
+# Save index + metadata
 faiss.write_index(index, "fanlabs_vector_index.faiss")
-
-# Save metadata
 with open("fanlabs_chunk_metadata.json", "w") as f:
     json.dump(metadata, f)
 
-print("✅ Embeddings complete. FAISS index and metadata saved.")
+print("✅ SentenceTransformer embeddings complete. Index and metadata saved.")
