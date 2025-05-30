@@ -1,17 +1,16 @@
 import streamlit as st
 from dotenv import load_dotenv
 import os
-import openai
-from openai import OpenAI
 import faiss
-import pickle
 import json
 
 from sentence_transformers import SentenceTransformer
+from openai import OpenAI
 
-# Load .env variables
+# Load environment variables and OpenAI key
 load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai_api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=openai_api_key)
 
 # Load FAISS index and metadata
 index = faiss.read_index("fanlabs_vector_index.faiss")
@@ -21,14 +20,31 @@ with open("fanlabs_chunk_metadata.json", "r") as f:
 # Load sentence transformer model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
+# FanLabs system prompt
+base_system_prompt = """
+You are a FanLabs strategist with 15+ years of proprietary research on fans, sports culture, and community behavior. 
+Your job is to respond with insight, clarity, and the FanLabs POV — not general marketing speak.
+
+You define fans as emotionally invested humans, not just consumers. You understand that fandom drives connection, belonging, identity, and shared purpose.
+
+You only answer using FanLabs frameworks, findings, language, and tone. If you don’t have an answer based on FanLabs data, say so. Do not speculate.
+
+You write like a smart, human strategist — sharp, curious, and confident. Avoid corporate filler. Be useful and thought-provoking.
+
+When relevant, connect ideas to emotional drivers like loyalty, joy, ritual, and meaning. Keep answers tight. Use examples from FanLabs studies or the book *Fans Have More Friends* where appropriate.
+
+You also value cultural clarity, sharp analogies, and ideas that spark momentum. You challenge conventional thinking, cut through clutter, and prefer insight over jargon. If an idea feels lazy, derivative, or brand-safe — call it out.
+"""
+
 # Streamlit UI
+st.set_page_config(page_title="FanLabs GPT", layout="centered")
 st.title("🧠 FanLabs GPT")
-st.markdown("Ask me anything about your docs!")
+st.markdown("Ask a question based on FanLabs strategy principles, frameworks, or POVs.")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Show previous messages
+# Display message history
 for msg in st.session_state.messages:
     st.chat_message(msg["role"]).markdown(msg["content"])
 
@@ -41,23 +57,20 @@ if query:
     # Embed query and search FAISS
     query_vector = model.encode([query])
     D, I = index.search(query_vector, k=3)
-
     retrieved_chunks = [metadata[str(i)]["text"] for i in I[0] if str(i) in metadata]
 
-    prompt = (
-        "You are a helpful assistant. Answer the question based only on the following context:\n\n"
-        + "\n\n---\n\n".join(retrieved_chunks)
-        + f"\n\nQuestion: {query}"
-    )
+    # Compose full prompt
+    context = "\n\n---\n\n".join(retrieved_chunks)
+    full_prompt = base_system_prompt + "\n\nReference Data:\n" + context + f"\n\nQuestion: {query}"
 
     try:
-        client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
         response = client.chat.completions.create(
-            model="gpt-4",
+            model="gpt-4o",
             messages=[
-                {"role": "system", "content": "You are a helpful assistant."},
-                {"role": "user", "content": prompt},
+                {"role": "system", "content": base_system_prompt},
+                {"role": "user", "content": full_prompt},
             ],
+            temperature=0.7,
         )
         answer = response.choices[0].message.content.strip()
     except Exception as e:
