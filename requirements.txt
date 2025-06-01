@@ -4,6 +4,6 @@ numpy==1.25.2
 faiss-cpu==1.11.0
 setuptools==68.2.2
 python-dotenv==1.0.1
-openai==1.23.6
+openai==0.28.1
 streamlit==1.45.1
 

@@ -34,7 +34,7 @@ When relevant, connect ideas to emotional drivers like loyalty, joy, ritual, and
 You also value cultural clarity, sharp analogies, and ideas that spark momentum. You challenge conventional thinking, cut through clutter, and prefer insight over jargon. If an idea feels lazy, derivative, or brand-safe — call it out.
 """
 
-# Streamlit UI setup
+# Streamlit UI
 st.set_page_config(page_title="FanLabs GPT", layout="centered")
 st.title("🧠 FanLabs GPT")
 st.markdown("Ask a question based on FanLabs strategy principles, frameworks, or POVs.")
@@ -42,7 +42,7 @@ st.markdown("Ask a question based on FanLabs strategy principles, frameworks, or
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Display chat history
+# Display message history
 for msg in st.session_state.messages:
     st.chat_message(msg["role"]).markdown(msg["content"])
 
@@ -52,7 +52,7 @@ if query:
     st.chat_message("user").markdown(query)
     st.session_state.messages.append({"role": "user", "content": query})
 
-    # Embed query and retrieve chunks
+    # Embed query
     query_vector = model.encode([query])
     D, I = index.search(query_vector, k=3)
     retrieved_chunks = [metadata[str(i)]["text"] for i in I[0] if str(i) in metadata]
@@ -62,7 +62,7 @@ if query:
     full_prompt = base_system_prompt + "\n\nReference Data:\n" + context + f"\n\nQuestion: {query}"
 
     try:
-        # OpenAI v1.23.6 compatible call
+        # OpenAI v0.28.1 compatible syntax
         response = openai.ChatCompletion.create(
             model="gpt-4o",
             messages=[
