@@ -3,14 +3,12 @@ from dotenv import load_dotenv
 import os
 import faiss
 import json
-
 from sentence_transformers import SentenceTransformer
-from openai import OpenAI
+import openai
 
 # Load environment variables and OpenAI key
 load_dotenv()
-openai_api_key = os.getenv("OPENAI_API_KEY")
-client = OpenAI(api_key=openai_api_key)
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Load FAISS index and metadata
 index = faiss.read_index("fanlabs_vector_index.faiss")
@@ -64,7 +62,7 @@ if query:
     full_prompt = base_system_prompt + "\n\nReference Data:\n" + context + f"\n\nQuestion: {query}"
 
     try:
-        response = client.chat.completions.create(
+        response = openai.ChatCompletion.create(
             model="gpt-4o",
             messages=[
                 {"role": "system", "content": base_system_prompt},
@@ -72,7 +70,7 @@ if query:
             ],
             temperature=0.7,
         )
-        answer = response.choices[0].message.content.strip()
+        answer = response.choices[0].message["content"].strip()
     except Exception as e:
         answer = f"Error from OpenAI: {e}"
 
