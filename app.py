@@ -64,15 +64,15 @@ if query:
     try:
         # Correct OpenAI v1+ syntax
         client = openai.OpenAI()
-response = client.chat.completions.create(
-    model="gpt-4o",
-    messages=[
-        {"role": "system", "content": base_system_prompt},
-        {"role": "user", "content": full_prompt},
-    ],
-    temperature=0.7,
-)
-answer = response.choices[0].message.content.strip()
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {"role": "system", "content": base_system_prompt},
+                {"role": "user", "content": full_prompt},
+            ],
+            temperature=0.7,
+        )
+        answer = response.choices[0].message.content.strip()
     except Exception as e:
         answer = f"Error from OpenAI: {e}"
 
