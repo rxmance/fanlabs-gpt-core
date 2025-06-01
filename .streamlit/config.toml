@@ -1,2 +1,12 @@
-[python]
-version = "3.10"
+[server]
+headless = true
+runOnSave = true
+maxUploadSize = 200
+
+[theme]
+base = "light"
+primaryColor = "#4267B2"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
