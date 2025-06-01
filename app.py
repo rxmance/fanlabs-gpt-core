@@ -4,11 +4,11 @@ import os
 import faiss
 import json
 from sentence_transformers import SentenceTransformer
-from openai import OpenAI
+import openai
 
 # Load environment variables
 load_dotenv()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Load FAISS index and metadata
 index = faiss.read_index("fanlabs_vector_index.faiss")
@@ -34,7 +34,7 @@ When relevant, connect ideas to emotional drivers like loyalty, joy, ritual, and
 You also value cultural clarity, sharp analogies, and ideas that spark momentum. You challenge conventional thinking, cut through clutter, and prefer insight over jargon. If an idea feels lazy, derivative, or brand-safe — call it out.
 """
 
-# Streamlit UI
+# Streamlit UI setup
 st.set_page_config(page_title="FanLabs GPT", layout="centered")
 st.title("🧠 FanLabs GPT")
 st.markdown("Ask a question based on FanLabs strategy principles, frameworks, or POVs.")
@@ -42,7 +42,7 @@ st.markdown("Ask a question based on FanLabs strategy principles, frameworks, or
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Display message history
+# Display chat history
 for msg in st.session_state.messages:
     st.chat_message(msg["role"]).markdown(msg["content"])
 
@@ -52,7 +52,7 @@ if query:
     st.chat_message("user").markdown(query)
     st.session_state.messages.append({"role": "user", "content": query})
 
-    # Embed query
+    # Embed query and retrieve chunks
     query_vector = model.encode([query])
     D, I = index.search(query_vector, k=3)
     retrieved_chunks = [metadata[str(i)]["text"] for i in I[0] if str(i) in metadata]
@@ -62,7 +62,8 @@ if query:
     full_prompt = base_system_prompt + "\n\nReference Data:\n" + context + f"\n\nQuestion: {query}"
 
     try:
-        response = client.chat.completions.create(
+        # OpenAI v1.23.6 compatible call
+        response = openai.ChatCompletion.create(
             model="gpt-4o",
             messages=[
                 {"role": "system", "content": base_system_prompt},
@@ -70,7 +71,7 @@ if query:
             ],
             temperature=0.7,
         )
-        answer = response.choices[0].message.content.strip()
+        answer = response["choices"][0]["message"]["content"].strip()
     except Exception as e:
         answer = f"Error from OpenAI: {e}"
 
