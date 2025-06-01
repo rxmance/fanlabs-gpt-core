@@ -3,3 +3,4 @@ huggingface-hub==0.14.1
 numpy==1.25.2
 faiss-cpu==1.11.0
 setuptools==68.2.2
+python-dotenv==1.0.1
