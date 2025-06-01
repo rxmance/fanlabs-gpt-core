@@ -62,7 +62,7 @@ if query:
     full_prompt = base_system_prompt + "\n\nReference Data:\n" + context + f"\n\nQuestion: {query}"
 
     try:
-        response = openai.ChatCompletion.create(
+        response = openai.chat.completions.create(
             model="gpt-4o",
             messages=[
                 {"role": "system", "content": base_system_prompt},
@@ -70,7 +70,7 @@ if query:
             ],
             temperature=0.7,
         )
-        answer = response.choices[0].message["content"].strip()
+        answer = response.choices[0].message.content.strip()
     except Exception as e:
         answer = f"Error from OpenAI: {e}"
 
