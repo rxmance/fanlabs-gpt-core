@@ -4,11 +4,11 @@ import os
 import faiss
 import json
 from sentence_transformers import SentenceTransformer
-import openai
+from openai import OpenAI
 
 # Load environment variables
 load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Load FAISS index and metadata
 index = faiss.read_index("fanlabs_vector_index.faiss")
@@ -62,8 +62,6 @@ if query:
     full_prompt = base_system_prompt + "\n\nReference Data:\n" + context + f"\n\nQuestion: {query}"
 
     try:
-        # Correct OpenAI v1+ syntax
-        client = openai.OpenAI()
         response = client.chat.completions.create(
             model="gpt-4o",
             messages=[
