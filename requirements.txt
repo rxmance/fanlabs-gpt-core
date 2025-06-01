@@ -1,9 +1,7 @@
-streamlit==1.33.0
-openai>=1.0.0
+streamlit
+openai
 python-dotenv
 faiss-cpu
 sentence-transformers==2.2.2
 torch==2.2.2
-huggingface_hub==0.14.1
-transformers==4.28.1
-tokenizers==0.13.3
+transformers==4.40.1
