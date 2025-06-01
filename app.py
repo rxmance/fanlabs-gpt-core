@@ -1,14 +1,12 @@
 import streamlit as st
-from dotenv import load_dotenv
-import os
-import faiss
-import json
-from sentence_transformers import SentenceTransformer
 import openai
+import os
+import json
+import faiss
+from sentence_transformers import SentenceTransformer
 
-# Load environment variables
-load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# Use Streamlit secrets for security
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 # Load FAISS index and metadata
 index = faiss.read_index("fanlabs_vector_index.faiss")
@@ -18,7 +16,7 @@ with open("fanlabs_chunk_metadata.json", "r") as f:
 # Load SentenceTransformer model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-# System prompt for FanLabs
+# FanLabs system prompt
 base_system_prompt = """
 You are a FanLabs strategist with 15+ years of proprietary research on fans, sports culture, and community behavior. 
 Your job is to respond with insight, clarity, and the FanLabs POV — not general marketing speak.
@@ -34,7 +32,7 @@ When relevant, connect ideas to emotional drivers like loyalty, joy, ritual, and
 You also value cultural clarity, sharp analogies, and ideas that spark momentum. You challenge conventional thinking, cut through clutter, and prefer insight over jargon. If an idea feels lazy, derivative, or brand-safe — call it out.
 """
 
-# Streamlit UI
+# Streamlit UI setup
 st.set_page_config(page_title="FanLabs GPT", layout="centered")
 st.title("🧠 FanLabs GPT")
 st.markdown("Ask a question based on FanLabs strategy principles, frameworks, or POVs.")
@@ -42,27 +40,27 @@ st.markdown("Ask a question based on FanLabs strategy principles, frameworks, or
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Display message history
+# Display past conversation
 for msg in st.session_state.messages:
     st.chat_message(msg["role"]).markdown(msg["content"])
 
-# Chat input
+# Handle user input
 query = st.chat_input("Ask a question...")
 if query:
     st.chat_message("user").markdown(query)
     st.session_state.messages.append({"role": "user", "content": query})
 
-    # Embed query
+    # Embed the query and retrieve top matching chunks
     query_vector = model.encode([query])
     D, I = index.search(query_vector, k=3)
     retrieved_chunks = [metadata[str(i)]["text"] for i in I[0] if str(i) in metadata]
 
-    # Compose full prompt
+    # Compose prompt with retrieved context
     context = "\n\n---\n\n".join(retrieved_chunks)
     full_prompt = base_system_prompt + "\n\nReference Data:\n" + context + f"\n\nQuestion: {query}"
 
     try:
-        # OpenAI v0.28.1 compatible syntax
+        # Make the API call
         response = openai.ChatCompletion.create(
             model="gpt-4o",
             messages=[
@@ -71,9 +69,10 @@ if query:
             ],
             temperature=0.7,
         )
-        answer = response["choices"][0]["message"]["content"].strip()
+        answer = response.choices[0].message["content"].strip()
     except Exception as e:
         answer = f"Error from OpenAI: {e}"
 
+    # Display and store assistant response
     st.chat_message("assistant").markdown(answer)
     st.session_state.messages.append({"role": "assistant", "content": answer})
