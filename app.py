@@ -1,5 +1,5 @@
 import streamlit as st
-import openai
+from openai import OpenAI
 import os
 import json
 import faiss
@@ -10,8 +10,8 @@ if st.experimental_get_query_params().get("healthcheck", [""])[0] == "true":
     st.write("✅ App is healthy")
     st.stop()
 
-# Secure key loading
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+# OpenAI client (v1.23+)
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # Load FAISS index and metadata
 index = faiss.read_index("fanlabs_vector_index.faiss")
@@ -66,7 +66,6 @@ if query:
     full_prompt = base_system_prompt + "\n\nReference Data:\n" + context + f"\n\nQuestion: {query}"
 
     try:
-        client = openai.OpenAI()
         response = client.chat.completions.create(
             model="gpt-4o",
             messages=[
