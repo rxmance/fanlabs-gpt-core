@@ -10,7 +10,7 @@ if st.experimental_get_query_params().get("healthcheck", [""])[0] == "true":
     st.write("✅ App is healthy")
     st.stop()
 
-# Set API key
+# Set API key (openai v0.28.1)
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 # Load FAISS index and metadata
@@ -18,8 +18,16 @@ index = faiss.read_index("fanlabs_vector_index.faiss")
 with open("fanlabs_chunk_metadata.json", "r") as f:
     metadata = json.load(f)
 
-# Load embedding model
-model = SentenceTransformer("all-MiniLM-L6-v2")
+# Fix: Ensure model cache directory exists
+cache_dir = os.path.expanduser("~/.cache/torch/sentence_transformers")
+os.makedirs(cache_dir, exist_ok=True)
+
+# Load embedding model safely
+try:
+    model = SentenceTransformer("all-MiniLM-L6-v2")
+except FileNotFoundError as e:
+    st.error("⚠️ Model loading error — check for corrupted .lock file or retry later.")
+    st.stop()
 
 # Base system prompt
 base_system_prompt = """
@@ -37,7 +45,7 @@ When relevant, connect ideas to emotional drivers like loyalty, joy, ritual, and
 You also value cultural clarity, sharp analogies, and ideas that spark momentum. You challenge conventional thinking, cut through clutter, and prefer insight over jargon. If an idea feels lazy, derivative, or brand-safe — call it out.
 """
 
-# Streamlit UI setup
+# Streamlit setup
 st.set_page_config(page_title="FanLabs GPT", layout="centered")
 st.title("🧠 FanLabs GPT")
 st.markdown("Ask a question based on FanLabs strategy principles, frameworks, or POVs.")
@@ -46,7 +54,7 @@ st.markdown("Ask a question based on FanLabs strategy principles, frameworks, or
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Display chat history
+# Display past messages
 for msg in st.session_state.messages:
     st.chat_message(msg["role"]).markdown(msg["content"])
 
@@ -56,13 +64,13 @@ if query:
     st.chat_message("user").markdown(query)
     st.session_state.messages.append({"role": "user", "content": query})
 
-    # Embed + retrieve
+    # Embed and retrieve
     query_vector = model.encode([query])
     D, I = index.search(query_vector, k=3)
     retrieved_chunks = [metadata[str(i)]["text"] for i in I[0] if str(i) in metadata]
+    context = "\n\n---\n\n".join(retrieved_chunks)
 
     # Compose full prompt
-    context = "\n\n---\n\n".join(retrieved_chunks)
     full_prompt = base_system_prompt + "\n\nReference Data:\n" + context + f"\n\nQuestion: {query}"
 
     try:
@@ -81,6 +89,6 @@ if query:
     st.chat_message("assistant").markdown(answer)
     st.session_state.messages.append({"role": "assistant", "content": answer})
 
-    # Optional: Log queries
+    # Optional: log query
     with open("usage_log.txt", "a") as f:
         f.write(f"Query: {query}\n")
