@@ -3,7 +3,6 @@ import openai
 import os
 import json
 import faiss
-import openai
 from sentence_transformers import SentenceTransformer
 
 # Health check (access via ?healthcheck=true)
@@ -12,7 +11,7 @@ if st.experimental_get_query_params().get("healthcheck", [""])[0] == "true":
     st.stop()
 
 # Set API key
-client = openai.Client(api_key=st.secrets["OPENAI_API_KEY"])
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 # Load FAISS index and metadata
 index = faiss.read_index("fanlabs_vector_index.faiss")
@@ -67,7 +66,7 @@ if query:
     full_prompt = base_system_prompt + "\n\nReference Data:\n" + context + f"\n\nQuestion: {query}"
 
     try:
-        response = client.chat.completions.create(
+        response = openai.ChatCompletion.create(
             model="gpt-4o",
             messages=[
                 {"role": "system", "content": base_system_prompt},
