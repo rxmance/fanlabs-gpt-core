@@ -1,8 +1,9 @@
 import streamlit as st
-from openai import OpenAI
+import openai
 import os
 import json
 import faiss
+from openai import OpenAI
 from sentence_transformers import SentenceTransformer
 
 # Health check (access via ?healthcheck=true)
@@ -10,7 +11,7 @@ if st.experimental_get_query_params().get("healthcheck", [""])[0] == "true":
     st.write("✅ App is healthy")
     st.stop()
 
-# OpenAI client (v1.23+)
+# Set API key
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # Load FAISS index and metadata
@@ -37,7 +38,7 @@ When relevant, connect ideas to emotional drivers like loyalty, joy, ritual, and
 You also value cultural clarity, sharp analogies, and ideas that spark momentum. You challenge conventional thinking, cut through clutter, and prefer insight over jargon. If an idea feels lazy, derivative, or brand-safe — call it out.
 """
 
-# Streamlit setup
+# Streamlit UI setup
 st.set_page_config(page_title="FanLabs GPT", layout="centered")
 st.title("🧠 FanLabs GPT")
 st.markdown("Ask a question based on FanLabs strategy principles, frameworks, or POVs.")
