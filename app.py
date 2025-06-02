@@ -3,7 +3,7 @@ import openai
 import os
 import json
 import faiss
-from openai import OpenAI
+import openai
 from sentence_transformers import SentenceTransformer
 
 # Health check (access via ?healthcheck=true)
@@ -12,7 +12,7 @@ if st.experimental_get_query_params().get("healthcheck", [""])[0] == "true":
     st.stop()
 
 # Set API key
-client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+client = openai.Client(api_key=st.secrets["OPENAI_API_KEY"])
 
 # Load FAISS index and metadata
 index = faiss.read_index("fanlabs_vector_index.faiss")
