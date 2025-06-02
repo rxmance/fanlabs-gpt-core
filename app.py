@@ -4,12 +4,6 @@ import os
 import json
 import faiss
 from sentence_transformers import SentenceTransformer
-import streamlit.runtime.scriptrunner.script_run_context as sctx
-
-# Health check (access via ?healthcheck=true)
-if st.query_params.get("healthcheck") == "true":
-    st.write("✅ App is healthy")
-    st.stop()
 
 # Secure key loading
 openai.api_key = st.secrets["OPENAI_API_KEY"]
