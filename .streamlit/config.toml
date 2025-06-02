@@ -1,9 +1,4 @@
 [server]
 headless = true
-runOnSave = false
-maxUploadSize = 200
-enableXsrfProtection = true
-fileWatcherType = "none"
-
-[theme]
-base = "light"
+enableCORS = false
+port = 8501
