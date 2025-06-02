@@ -6,7 +6,7 @@ import faiss
 from sentence_transformers import SentenceTransformer
 
 # Health check (access via ?healthcheck=true)
-if st.query_params.get("healthcheck") == "true":
+if st.experimental_get_query_params().get("healthcheck", [""])[0] == "true":
     st.write("✅ App is healthy")
     st.stop()
 
