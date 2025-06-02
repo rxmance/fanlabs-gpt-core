@@ -5,10 +5,15 @@ import json
 import faiss
 from sentence_transformers import SentenceTransformer
 
+# Health check (access via ?healthcheck=true)
+if st.query_params.get("healthcheck") == "true":
+    st.write("✅ App is healthy")
+    st.stop()
+
 # Secure key loading
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
-# Load index and metadata
+# Load FAISS index and metadata
 index = faiss.read_index("fanlabs_vector_index.faiss")
 with open("fanlabs_chunk_metadata.json", "r") as f:
     metadata = json.load(f)
@@ -16,7 +21,7 @@ with open("fanlabs_chunk_metadata.json", "r") as f:
 # Load embedding model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-# System prompt
+# Base system prompt
 base_system_prompt = """
 You are a FanLabs strategist with 15+ years of proprietary research on fans, sports culture, and community behavior. 
 Your job is to respond with insight, clarity, and the FanLabs POV — not general marketing speak.
@@ -32,35 +37,37 @@ When relevant, connect ideas to emotional drivers like loyalty, joy, ritual, and
 You also value cultural clarity, sharp analogies, and ideas that spark momentum. You challenge conventional thinking, cut through clutter, and prefer insight over jargon. If an idea feels lazy, derivative, or brand-safe — call it out.
 """
 
-# Streamlit UI
+# Streamlit setup
 st.set_page_config(page_title="FanLabs GPT", layout="centered")
 st.title("🧠 FanLabs GPT")
 st.markdown("Ask a question based on FanLabs strategy principles, frameworks, or POVs.")
 
+# Store chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Display history
+# Display chat history
 for msg in st.session_state.messages:
     st.chat_message(msg["role"]).markdown(msg["content"])
 
-# Chat input
+# Handle user input
 query = st.chat_input("Ask a question...")
 if query:
     st.chat_message("user").markdown(query)
     st.session_state.messages.append({"role": "user", "content": query})
 
-    # Embed and retrieve
+    # Embed + retrieve
     query_vector = model.encode([query])
     D, I = index.search(query_vector, k=3)
     retrieved_chunks = [metadata[str(i)]["text"] for i in I[0] if str(i) in metadata]
 
-    # Compose prompt
+    # Compose full prompt
     context = "\n\n---\n\n".join(retrieved_chunks)
     full_prompt = base_system_prompt + "\n\nReference Data:\n" + context + f"\n\nQuestion: {query}"
 
     try:
-        response = openai.ChatCompletion.create(
+        client = openai.OpenAI()
+        response = client.chat.completions.create(
             model="gpt-4o",
             messages=[
                 {"role": "system", "content": base_system_prompt},
@@ -75,6 +82,6 @@ if query:
     st.chat_message("assistant").markdown(answer)
     st.session_state.messages.append({"role": "assistant", "content": answer})
 
-    # Optional: usage logging
+    # Optional: Log queries
     with open("usage_log.txt", "a") as f:
         f.write(f"Query: {query}\n")
