@@ -1,12 +1,9 @@
 [server]
 headless = true
-runOnSave = true
+runOnSave = false
 maxUploadSize = 200
+enableXsrfProtection = true
+fileWatcherType = "none"
 
 [theme]
 base = "light"
-primaryColor = "#4267B2"
-font = "sans serif"
-
-[browser]
-gatherUsageStats = false
