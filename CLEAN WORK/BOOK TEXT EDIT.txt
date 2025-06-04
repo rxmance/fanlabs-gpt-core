@@ -1,0 +1,841 @@
+
+
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 1: REFRAMING HOW OUR CULTURAL CONCEPTION OF SPORTS FANDOM 
+Anyone who has spent four quarters in a football stadium, clocked nine innings in a ballpark, or gone tip-off to final buzzer at a basketball game has observed the full spectrum of fan types, from the “I’m here because I got free tickets” spectator to the die-hard, flag-waving, “I bleed team colors” fanatic. Nowhere have the opposite ends of this spectrum been more hilariously depicted than in the 1990s sitcom Seinfeld. If you’ve seen “The Face Painter” episode, which aired in 1995, you know where this is headed. If you haven’t, hang tight. We’ve got you.
+ 
+The scene begins with Julia Louis-Dreyfus’s character, Elaine, sitting alone on her living room couch. She’s waiting for her new boyfriend, David Puddy, who is offscreen, to get ready to go to the New Jersey Devils vs. New York Rangers Stanley Cup playoff game.
+ 
+“Hey, so how long have you been a Devils fan?” Elaine calls out. “Since I was a kid,” Puddy yells back. “I’m from Jersey.”
+“Yeah?” she says jokingly. “Well, we’re going to kick your butts!”
+ 
+“No way, man,” Puddy’s voice booms. “We’re primed!” He sounds like he means it, and when he emerges from the back room — a tall, broad-shouldered man in a Devils jersey — Elaine sees that he does: he’s painted onto his face a fire-red replica of the team logo.
+ 
+Elaine does a classic Seinfeld doubletake: “What the — ?”
+ 
+Puddy is oblivious to her shock. “So, what do ya think?” He’s beaming with pride. “What is that?” Elaine asks.
+“I painted my face,” he responds. “You painted your face?”
+“Yeah.”
+ 
+“Why?”
+ 
+“Oh, you know,” he responds: “support the team.” “Well, you can’t walk around like that,” she tells him. “Why not?” he asks.
+“Because,” she says, “it is insane.”
+ 
+“Hey — you got to let them know you’re out there. It’s the playoffs.”
+
+This exchange reveals the challenge inherent to investigating fandom: we don’t know how to talk about it. The whys of fan behavior are explained in circular logic: Why do you dress up in team gear? Because you’ve got to support the team. Why have you got to support the team? Because — loyalty, man. Conversation over.
+ 
+Worse, the face-painter stereotype, which dominates our collective imagination, depicts fandom as trivial, one-dimensional, and outrageous. Puddy’s makeup is just the beginning. The next scene begins with the Seinfeld crew at the game. Elaine, Jerry, and Kramer sit in their rinkside seats, while Puddy stands, pounding on the glass. Later, out on the street, basking in his team’s victory, Puddy erupts when a car stops just short of hitting him. He pounds on the hood and yells, “Hey, what are you doing?! Watch where you’re driving, man!” He storms the passenger window, screaming at a priest seated on the other side of the glass: “Don’t mess with the Devils, buddy. We’re number one, we beat anybody! We’re the Devils! The Devils!! Ahhhhhh!!!” Puddy runs away, leaving the priest shaken.
+ 
+Of course, this iconic scene was exaggerated for comedic effect. But such images of fandom, ubiquitous in pop culture, influence our cultural conversation about fans. To reveal the depth and complexity of fandom, we need first to dismantle fan stereotypes.
+ 
+Conventional conceptions of fandom run from the trivial to the toxic. On the trivial side, we have the man-cave dweller, surrounded by his sports memorabilia, his oversized TV, his logo-embossed leather couch, his beer fridge, and game-day chicken wings. Here, fandom is juvenile and fatuous.
+On the toxic side, we have the mob of post-championship fans drunk on victory, storming the streets, tearing down lamp posts, overturning cars, lighting fires, and picking fights with anyone wearing the other team’s colors. Here, fandom is ominous and threatening, a conception embedded in the etymology itself. The word “fan” originated as an abbreviation of “fanatic,” an adjective that originally used to describe possession by a god or demon. By association, the word “fan” conjures up images of boorish bros engaged in “possessed” and “insane” behaviors.
+ 
+Of course, there’s a degree of truth to this image, as anyone who’s ever stood in a stadium restroom line can attest. Puddy feels familiar; we’ve all seen a Puddy in the wild. But as is the problem with all stereotypes, the “face painter” limits our thinking. How can we argue that fandom has the power to activate social connections, mitigate loneliness, and soften polarization when the Puddy figure represents our common conception of fandom? How can something we believe to be so profound manifest in such a superficial — or even pernicious — way?
+ 
+Admittedly, fan stereotypes influenced our own perceptions when we started studying fandom as a phenomenon. Even as lifelong fans ourselves, we didn’t truly understand what motivated fan behavior, nor did we appreciate its potential impact. But the more time we spent with fans, and the more critically we thought about fandom, the more we suspected that something powerful, something not yet named, loomed behind the “gotta support the team” logic. Slowly, as we observed fans in context, dug deeper into their motivations, and examined how fandom manifested in their day-to-day lives, a picture emerged that did not align with the Puddy-esque character.
+ 
+It struck us not only that the stereotype was incomplete, but also that it masked the real power of sports fandom to make a positive, lasting impact. We found ourselves at an impasse. We had logically consistent qualitative insights that pointed us to a more elevated conception of fandom. But we needed quantitative survey data to see if these insights held up at scale. Testing our hypothesis through surveys required a reliable way to differentiate between fans. Differentiating
+
+between fans is a critical step because it enables comparisons between groups of people; such comparisons would illuminate the differences between less engaged and highly engaged fans, shining a light on fandom’s true nature.
+ 
+This required a more precise definition of fandom. Which meant that we needed to address a simple, yet critical question: What is a fan?
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 1: DEFINING FANDOM AS BOTH PASSION AND ACTION 
+ 
+At the beginning of this journey, conventional thinking, imprecise language, and rote assumptions stood between us and the core truths of fandom. To get where we wanted to go, we needed to break through these barriers and connect definitional behaviors with the lived realities of fans. In other words, we needed to break down fandom to first principles.
+ 
+First-principles thinking is nothing new. It dates back to Aristotle, who defined first principles as “the first basis from which a thing is known.”3 Later, Rene Descartes picked up the idea up and ran with it, developing a method now called Cartesian Doubt, in which he systematically doubted everything he could until he was left with purely indisputable truths.
+ 
+Namechecking Aristotle and Descartes sounds highfalutin, but what they describe is a relatively straightforward approach to problem solving: remove assumption and convention until you are left only with what is essential. Applied to fandom, this means breaking down the fundamentals of the fan experience piece by piece, shedding the stereotypes, and then reassembling our conception of fandom from the ground up.
+ 
+How do you identify the first principles of fan behavior? As strategists operating across the sports ecosystem for the past decade-plus, we have been tasked throughout our careers with solving a variety of fan-related business and brand problems. Along the way, we have been exposed to all sorts of fans, in all sorts of contexts. The benefit of this type of exposure is the ability to analyze, both broadly and deeply, fans and the factors that motivate them. Practically speaking, we spent countless hours interacting with and thinking about fans, asking ourselves questions like: What are the essential elements of fandom? A fan cannot be a fan without … what? Step by step, we cleared the mental detritus and began to identify the indisputable truths of fandom.
+ 
+As we dug deeper, we noticed something strange: conventionally speaking, the language we use to describe fandom is a function of self-proclaimed passion: I’m a “huge” fan. She’s “obsessed” with sports. That town is “rabid.” And yet, when it comes to sports, people claim “fandom,” especially team-based fandom, even when they engage minimally, if at all, in fan behaviors. We’re talking about the guy who considers himself a Fighting Irish “fan” just because his grandfather went to Notre Dame, or the woman who calls herself a Mariners “fan” simply because she lives in Seattle. Maybe they’ve attended a game or two; maybe they haven’t. Maybe they own a team jersey; maybe they don’t. Certainly, they can’t name the current crop of key players, nor do they watch games regularly. They claim to be fans, but they don’t act like fans. Even if they profess loyalty, they don’t participate in the basic activities that characterize “true fandom.”
+ 
+Can you imagine the same thing happening with, say, music fandom? If you were to claim, “I’m a
+huge Rolling Stones fan,” we’d presume that you engage in some key activities: for example, you
+
+own a few Rolling Stones albums, have a favorite song, have seen the Stones in concert. Maybe you have a “tongue and lips” poster in your garage. If you had or did none of those things, would you call yourself a fan? Of course not.
+ 
+There’s no question that passion is a fundamental component of the sports fan experience — more on this shortly — but, as the observation above makes clear, it’s undeniably not the only component. More to the point, when it comes to understanding what makes fans tick, passion isn’t a particularly useful organizing principle, mostly because it’s a fundamentally subjective measure.
+ 
+What is less subjective, however, is action. Sports fans seem intuitively to know this. Declare “I live for baseball” to a bunch of strangers, and they’re likely to start peppering you with questions to qualify your statement: Who’s your team? Who’s your favorite player? How many ballparks have you visited? Ever been to spring training? As these questions suggest, passion is an ingredient, but it’s not the only ingredient. Action must follow. True fandom requires both the emotional investment of passion and the temporal and financial investment of action. These are, to use Descartes’s phrase, the “indisputable truths” of the fan experience and the building blocks of our conception of fandom.
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 1: DEFINING THE SPECIFIC ACTIVITIES THAT FANS PARTAKE IN 
+Guided by the principle that action is an essential ingredient of fandom, we set out to identify and measure a broad set of activities that fans engage in. We included common activities like watching sports on TV, as well as more niche activities, like betting on sports, playing daily fantasy, or calling into sports talk radio. We further separated these activities into two broad buckets: those that require attention and those that require money.
+ 
+We have since surveyed more than 33,000 fans. The results shed light on the relationship between fan passion and fan action. Figure 1.1 shows the percentage of respondents who engaged in these various fan activitie
+
+As you can see, on the “attention” side, 89% of all fans watch sports at home, while only 5% call into sports talk radio. On the “money” side, 51% wear — and therefore presumably buy — team merchandise, while only 9% purchase multi-game ticket packages.
+ 
+Interestingly, with the exceptions of watching and talking about sports, only a minority of fans (under 50% in most cases) engage in any of these activities. In fact, our surveys show that most self-proclaimed “passionate” fans engage in only a few fan activities. For example, nearly a third of
+self-proclaimed “passionate” NFL fans engage in only three or fewer activities commonly associated with passionate fans. So, just because your neighbor claims to be a “huge” fan, that doesn’t mean that he’s placing bets, playing in fantasy leagues, or regularly attending games. In fact, participation in these activities is surprisingly low. In other words, it’s easy to say you’re a fan, but it turns out that it’s harder to act like a fan.
+
+ 
+ 
+ 
+Clearly, not all fans who claim passion do the work we associate with fandom. On the other hand, as illustrated in Figure 1.3, of the NFL fans who do engage in multiple fan activities (between 7 and 14 of them), 84% rate themselves as passionate, as opposed to 71% of fans who engage in between four and six activities, and 48% of those who engage in three or fewer activities. So, we do see a positive relationship between passion and action.
+
+ 
+
+Fans who engage in more activities have higher passion scores. So far, so intuitive. In fact, as Figure
+1.3      illustrates, we found that engaging in any single given fan activity correlates with a higher level of passion among NFL fans. It’s worth noting that the more “niche” an activity, the higher the corresponding lift.
+ 
+ 
+ 
+ 
+ 
+ 
+What we see here is consistent across our findings: fans who engage in more actions report higher passion scores. For fans, action matters.
+
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 1: BIGGER FANS ARE ORIENTED TOWARD THE LEAGUE/SPORT 
+ 
+ 
+When we first set out to understand college football fandom, we assumed that fans who had gone to a “football” school like Alabama, USC, or Notre Dame would have a qualitatively different relationship to college football than fans who had not gone to such a school. These fans, we figured, don’t simply graduate with a degree; they graduate with a team. Using this team lens, we segmented our various focus groups by alumni of schools with major college football programs and non-alumni (that is, college football fans who did not attend a school with a major football program).
+
+We did see a contrast between these groups — just not in the way that we expected. As it turned out, the non-alumni fans exuded a love of college football that most of the alumni seemed to lack. Further, that passion translated into significantly more action. Simply put, the non-alumni were more engaged college football fans.
+ 
+When alums of football schools talked about their fandom, they told crazy “l was there when” stories. They described taking annual pilgrimages back to campus, or organizing watch parties for alumni groups in their towns. They never missed one of their alma maters’ games. But, their fandom generally centered on one team.
+ 
+Non-alumni fans, on the other hand, followed college football more broadly. Sure, they had favorite teams and strong rooting interests, but they dedicated their Saturdays to watching any game on TV. Some ran college football pools, while others could give you informed takes on any team in the Power Five conferences and beyond. These people immersed themselves in the joyous feeling of college football Saturdays: the campus traditions, the marching bands, the student sections, the whole shebang.
+ 
+If the non-alumni fans shredded our initial hypothesis — that “football school” alumni would be bigger fans than non-alums — they also led us to a greater insight: fandom is stickier when fans have an orientation to the sport, not just to a team. These two modes are not mutually exclusive: a single fan can love college football generally and root for the Crimson Tide specifically. But when they do both, their fandom runs deeper. Why? First, if your interest is not strictly team-oriented, you are likely to watch more games. Second, the ebbs and flows of your team’s fortunes will have less impact on your overall interest, so even if your team is having a bad season, you have other reasons to engage. Third, and perhaps most importantly, you have more opportunities to share your fandom. Think about it: a fan who follows the entire college football landscape has a lot more to discuss at a neighborhood barbecue than does someone who can talk only about USC.
+ 
+We tested this new hypothesis on the other five of the Big Six American sports leagues (namely, the NFL, MLB, college football, NBA, NHL, and college basketball). We created a question to understand a given fan’s passion orientation: will you watch this sport no matter who is playing or only if your team is playing? As you’ll see in Figure 1.5, fans oriented toward the sport are dramatically more passionate than those oriented toward a team. For example, among college football fans, 49% of fans who watch only if their team is playing consider themselves to be “passionate” and 74% of fans who watch no matter who is playing report themselves as “passionate.” In fact, “league-oriented” fans outrank “team-oriented” fans by at least 20% in terms of passion across the Big Six.
+
+ 
+ 
+To be clear, league-oriented fans can also be dedicated supporters of a team, but league orientation signals increased levels of fan passion.
+ 
+This nuanced understanding of fan passion adds a critical dimension to our understanding of the fan experience. When we look back at what we missed in those initial Rangers focus groups, we now see that the less engaged group had an affinity for the team but had no real tie to the sport. In contrast, the highly engaged group had an almost spiritual connection with the game of hockey. They lived the values of hockey. Some played the game, some had kids who played. They all loved the game and the NHL as well as the Rangers. This insight brought us one step closer, but the full picture of fandom still wasn’t quite complete.
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 1: BIGGER FANS ARE ORIENTED TO MULTIPLE SPORTS, MORE SPORTS EQUATES TO MORE FANDOM OF EACH INDIVIDUAL SPORT 
+ 
+We found another dimension of fan passion when we were trying to understand viewership of daytime sports talk television programs. From the outset, we knew that anyone who spent considerable time watching daytime sports talk programming — think Fox Sports’ Skip and Shannon: Undisputed or The Herd with Colin Cowherd, or ESPN’s First Take and Pardon the Interruption — was likely a dedicated fan. The usual docket of games on weekends and weekdays is not enough to satiate these fans’ sports appetite: they want more. As we spent more time with this audience, it became clear that these fans engaged with sports in ways that were both broad and deep. They followed leagues and players as much as teams. And, most importantly, their fandom extended across multiple sports.
+ 
+For example, a multi-sport fan might be a San Francisco 49ers season-ticket holder, but she also has a subscription to NBA League Pass and roots for whoever LeBron James is playing for. Another fan might love the Atlanta Hawks, but he also watches Sunday Night Football every week. “Sports fan —
+— emphasis on the plural — is a key part of their identity, a moniker that complements their multi- team and multi-league fandom. These folks pride themselves on having nuanced opinions on topics as varied as MJ’s GOAT status, the legitimacy of the DH, and the merits of the Cover 2. They regularly consume shows that discuss a variety of topics across sports, and that rarely, if ever, touch
+
+on their favorite teams (unless they’re lucky enough to be a Dallas Cowboys fan). To restrict their fandom to a specific team or sport would be like removing a section of their brain.
+ 
+This cross-sport fandom signals elevated levels of engagement. This idea makes intuitive sense. Just think about the avid Chicago Bears fan who has owned season tickets for two decades. He lives and breathes the Bears and hasn’t missed a home game in years. Despite his obvious passion, his fandom is limited to a single season. Sure, he’s following Bears news all year long, but he’s locked in for only a handful of months. Compare his seasonal fandom to a Chicago sports fan who follows not only the Bears but also the Bulls, Cubs, and Blackhawks, too. Her fandom is multi-sport, extending her engagement year-round.
+ 
+The bottom line is that engaging across multiple sports results in a stronger attachment to each individual sport. In fact, we can predict your NFL fandom — or that of any other Big Six sport — based on the number of other sports you follow. Figure 1.6 shows how a fan’s passion for the NFL grows in direct relationship to how many other Big Six sports they engage with passionately.
+ 
+On the far left, 38% of respondents who are not fans of any of the other Big Six sports rate themselves as “passionate” about the NFL. The fact that they are not passionate fans of any other sports signals lower levels of passion for the NFL. This is our Chicago Bears season ticket holder from above. If you move toward the right, adding just one additional sport, the passion rating for the NFL jumps to 67%. This increase continues incrementally with each additional sport, until we get to the far right side of the chart: if you are passionate about all of the other five of the Big Six sports, then there’s a 99% chance you’re also a passionate NFL fan.
+ 
+This phenomenon is not unique to the NFL. The pattern holds for all sports. Why? The simple answer is that a multi-sport fan doesn’t have an offseason, which means they remain in fan mode all
+
+year long. In other words, they get more reps. The repetition and reliability of their fan activity engrains fandom more deeply into their everyday lives. The more their fandom is reinforced by participating in these activities, the more they identify with it. The more they identify with it, the more they engage in it. And the more they engage in it, the more profound their fandom becomes. It’s a virtuous cycle.
+ 
+A second reason multi-sport fans engage more deeply is that they have a variety of different fan experiences across these different sports. Each sport has its own rhythms, rituals, and histories; each offers unique fan traditions; and fans develop unique connections to each. For example, you may have a different origin story for your baseball fandom than you do for your college football fandom. This variety naturally gives you greater perspective, context, and appreciation for the particulars of all the sports that you follow.
+ 
+The third and most important reason multi-sport fans tend to be more engaged fans is that the social network around each of those sports is likely to be different. Our Bears season ticket holder from the example above likely has a robust set of people in his life with whom he shares his Bears fandom. But the fan of all the Chicago teams likely has an active social network for each of those teams. Sure, there’s bound to be some overlap between those groups, but each team will add new people to her orbit.
+ 
+Again, looking back at what we missed in those Rangers focus groups, we now see that the less engaged group did not express elevated interest in any of the other major sports. On the other hand, the highly engaged group had similar hot takes about the Knicks, Yankees, Giants, Jets, and Mets.
+These takes revealed an authentic passion for all of these sports; they were New York fans in a holistic sense. Adding this dimension of fan passion completed our picture of fandom.
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 1: THE FAN VALUE SCORING SYSTEM FOR SEGMENTING FANS BY ENGAGEMENT  
+So, where is our conception of fandom now? We have the two building blocks of fandom: passion and action. We also have two ways of adding dimension to that passion: breadth within a sport and breadth across sports. These are the first principles of the fan experience, fandom’s indisputable truths. Most importantly, these fundamentals give us measurable actions and attitudes that we can use to differentiate between fans, from the unengaged to the highly engaged. Armed with that ability, we can now identify the most dedicated fans and investigate what motivates their behavior.
+ 
+To that end, we created a new tool: the Fan Value Score. This tool measures action, passion, and league orientation, and accounts for multiple sports. It assigns point values to each element and places the fan on a continuum from a minimum score of zero to a maximum score of fifty-three, which we subsequently separate into more readable tiers called Low-Value, Mid-Value, and High- Value. As you will see in the following pages, we also typically include a group called Non-Fans.
+ 
+In both theory and practice, developing a tool like the Fan Value Score requires a blend of art and science.† Since we locked in on this approach in the fall of 2019, we have run dozens of surveys,
+ 
+
+reaching fans and non-fans alike, to probe various aspects of their attitudes, behaviors, and personalities. In all these surveys, we’ve asked the same Value Score questions to more than 25,000 people.
+ 
+Ultimately, our goal was to depict fandom faithfully so we could identify the most engaged fans and uncover actionable insights into their motivations. Now, with stereotypes dismantled and a new, more accurate picture of fandom built up in their place, we could get down to the business of understanding the differences between fans. That pursuit would take us from focus groups to stadiums, living rooms, sports bars, barbershops, and backyard barbeques. At some point along the way, we realized we were not simply gaining relevant insights to benefit the sports industry. As our country spiraled into an era marked by pandemic-induced isolation, social unrest, and political division, we were learning about the power of fandom to positively impact peoples’ lives.
+ 
+ 
+ 
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 2: THE UNDERLYING REASON FANS ENGAGE IS SOCIAL RELATIONSHIPS  
+“If you’re born in New York, you’re born a Knicks fan. It’s just instilled in you.”
+ 
+So declares Greg Armstrong. Yes, Greg was born in the Bronx, in 1964, the youngest of three siblings. But if you ask him when he became a fan, he won’t give you his birthdate. Instead, he’ll tell you about his family. “My brother was four years older than me, and I looked up to him,” he told us. “We shared a room, and he was a big Knicks fan, so we had posters all over the walls. We watched all the games together on Channel 9, then we would go outside and play basketball in the schoolyard together. It was a bonding experience for us.”
+ 
+Greg’s childhood was a fortuitous time to become a Knicks fan: it was the era of Walt Frazier, Willis Reed, and Earl Monroe. Around the time of the run-up to the team’s second championship season in 1972–73, Greg’s mom gave him a pair of Knicks pajamas. “I just kind of took it from there,” he says, talking to us from a home office decorated floor-to-ceiling with Knicks’ memorabilia. Though that championship marked a pinnacle the Knicks have not reached since, Greg’s fandom has never waned. “They just became a passion. I would watch every game on TV and root hard for the team.”
+ 
+In high school, Greg got his first taste of Madison Square Garden. “We used our student GO Card and would buy six-dollar tickets, all the way up in the blue seats,” he says, referring to The Garden’s upper deck. That was in the early 1980s, and at that time the Knicks weren’t very popular, so Greg and his friends would sneak into the better sections of the half-empty arena. “The ushers, they didn’t really care. They didn’t really give you a hard time, I guess, because most of the seats were
+ 
+ 
+
+empty.” As he recounts these memories, Greg radiates the impishness of a teenager who copped lower-level seats for the cost of a bootleg cassette tape.
+ 
+During that run in the 1980s, the Knicks never advanced past the Eastern Conference Semifinals, but a diehard fan like Greg remained loyal. In 1991, the Knicks announced Pat Riley as the new head coach, and Greg sensed change on the horizon. “That was it. I said, ‘Pat Riley is coming to New York. We got to be there.’” By then, Greg was married, managing a grocery store, and raising kids in Yonkers. “I didn’t even know if I could afford season tickets,” he says. “I wanted to take my kids to the games — they were toddlers at the time — and try to bring them up in the fandom. I wanted to share my passion, to pass it down to them. So, I called Madison Square Garden and they had a location that was suitable for my budget. It was an expense, but I was able to squeeze it in.” In his first year as a season ticket holder, he paid $24 a ticket.
+ 
+Greg’s instincts were right: the tide turned. For the next decade, the Knicks reached the post- season every year, including two NBA Finals appearances, in 1994 and 1999. Then everything fell apart, except for Greg’s fandom. By the time we met him, in 2016, at an informal focus group with Knicks season-ticket holders, Greg had been a season-ticket holder for 25 years. All in, Greg has invested a considerable amount of money into his fandom. In addition to the tickets themselves, which we can assure you cost more than $24 per seat today, he regularly shells out money for gas
+— commuting an hour upstate each way — bridge tolls, and parking just to get to the games. That’s on top of the substantial time investment required to attend more than 30 home games a season for 30 seasons. Despite those costs, you can usually find Greg in his seats, win or lose. And for the last 20 years, the Knicks have done a lot of losing.
+ 
+What motivates a fan like Greg to buy season tickets year after year, just to watch a disappointing team? As he tells it, “When they started losing, initially, you think that it’s just going to come back. You’re thinking that this is a blip. We’re going to be good again. So, for one, two years, it is not really a big deal. But then, as it keeps going on, it gets a little tough. The good times that you had keep you hoping, even though the team is terrible. Your passion takes over — you love this team, you love this sport, you know they’ll get good again eventually, and you want to be there when it happens.
+You don’t want to turn your back on something that you have invested so much time and energy into. For me, it was a no-brainer: I love the Knicks. That’s something that I grew up with. I couldn’t leave.”
+ 
+Greg is speaking in fan vernacular here — passion, loyalty, dedication, hope — all of which we, as fans, understand viscerally. But as strategists tasked with uncovering consumer motivations, when we tapped on his fan language, it sounded hollow, like a false wall hiding a secret room. What’s behind it? Why spend an inordinate amount of time and such a large percentage of your disposable income to watch twenty years of, in Greg’s own words, “terrible, terrible basketball”?
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 2: THE UNDERLYING REASON FANS ENGAGE IS SOCIAL RELATIONSHIPS  
+In boardrooms, academic circles, and barrooms alike, we have encountered many theories about fan behavior. Some believe that sports offer compelling entertainment or an escape from the real world. Others say that fandom helps people establish their personal identities. Still others argue that sports allow fans to feel connected to something larger than themselves. Like Greg’s explanations of loyalty, passion, and hope, there’s a measure of truth to all of these theories. But —
+
+for us, at least — none adequately explain why the Gregs of the world do what they do. Either they’re crazy, or there’s a rational explanation for such devotion. We were determined to find that rational explanation.
+ 
+To find it, we needed to look at fans more holistically, exploring their activities within the broader contexts of their lives, always asking ourselves: What “job” is their fandom doing for them?
+ 
+When we met Greg, we were focused on uncovering the “job” Knicks fandom does for Knicks fans — and, by extension, the function that intense fandom performs for supporters of any team. To get at the answer, we conducted ethnographic research that took place in three parts. First, we went to the fan’s home, meeting family, pets, and even neighbors, and inevitably touring massive memorabilia collections. Second, we attended a game with each fan to see firsthand how they experienced their team. Finally, we tagged along with the fan on an activity that had personal significance to that person; this was an open-ended exercise that added dimension to the fan’s story. After our initial meeting with Greg, we called him up to see if he’d like to participate. He, along with seventeen other fans, jumped at the chance.
+ 
+With his megawatt smile and friendly manner, Greg is a good hang and a gracious host. At his home in Middletown, NY, he regaled us with stories sparked by his museum-worthy collection of Knicks swag. He revealed that while the Knicks are his true love, he’s obsessed with the NBA in general, and is also a dedicated fan of the New York Yankees and the New York Giants.
+ 
+While our home visit was entertaining, it wasn’t until we walked into The Garden with Greg that we started to see the underpinnings of his fandom in action. Here, he was in his element. He wasn’t in the building more than five minutes before everyone from ushers to fellow fans were waving him over for a chat. When we finally reached his seats, we saw how deep these Garden friendships ran.
+ 
+As we were getting settled in, Greg and his season-ticket neighbor greeted each other warmly and seamlessly slipped into a conversation without skipping a beat. The comfort and intimacy they demonstrated was notable. Later, Greg told us, “It’s not just about going to the game and rooting on the team … the lawyer who sits next to me — he’s been here sitting next to me for all twenty-five years I’ve had the tickets. I watched his kids grow up and he watched my kids grow up. We’ve become good friends. The different people who sit around you in the section — they become almost like your extended family.” Greg was quick to say hi to fans and Garden staff in the neighboring sections, too, greeting them by name. All in all, we could see what he meant when he said, “I’m at home at The Garden.”
+ 
+This experience was top of mind when we accompanied Greg to his barbershop, Fuzion in Middletown, NY, for the last part of our research. He chose this spot because it’s a place where his fan persona thrives. Importantly, it’s a place where the social currency he has accumulated via his lifelong Knicks fandom pays off. The minute he walked through the barbershop door, his mere presence shifted the conversation to the Knicks among barbers and clients alike: commiserating over losses, sharing stories from the glory days, offering hopeful predictions for the future. All the while, we noticed that other topics came up, too: kids, jobs, promotions, marriages, births, deaths, disappointments, etc. The Knicks anchored a conversation that eventually provided the space for friends old and new to catch up on life beyond basketball. And Greg was at the center of it all, reveling in the sense of community that his Knicks fandom created.
+
+One might assume Greg’s personality accounts for all these friendships. After all, he’s an affable guy, likeable, and as eager to listen as he is to talk. But these interactions — the season-ticket neighbors, the back-and-forth with ushers, the barbershop reminiscences — were common among all the fans who participated in our research. As we chronicled their lives, we began to see these social connections as the real incentive motivating the most engaged fans. In other words, this was the “job” their fandom performs. Suddenly, Greg’s decision to invest so much money and time to watch bad basketball no longer seemed irrational. As we started to look at the season-ticket value proposition this way, the math changed. Despite what he might say about team loyalty, the team was not the primary factor in his purchase decision. What he was buying — what he is buying to this day — is belonging. As it turns out, the real reason to be a fan is to be a part of a community.
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 2: IF FANDOM IS ABOUT COMMUNITY, THEN BIGGER FANS WILL HAVE MORE ACTIVE, ROBUST SOCIAL NETWORKS   
+Since convening that research with Greg and his fellow Knicks season-ticket holders, we have surveyed tens of thousands of people, interviewed hundreds of fans, and spent innumerable hours in barrooms and stadiums around the country, in search of a unifying theory of fandom. At each stop, we refined our approach, gathered more data, and analyzed it from new perspectives. Again and again, we found ourselves heading in the same direction. We sensed we were approaching an insight that could dramatically shift our collective understanding of fandom. But we needed to bring the idea into focus, flesh out the thinking, and develop a method to test our hypothesis.
+ 
+We had arrived at our “to be a fan is to be part of a community” theory, based on a compendium of emotionally rich, revelatory stories like Greg’s. But could we demonstrate that insight at scale? If we could do so once, would the results hold up over time? As a first step, we set out to test a more precise hypothesis: if social interactions animate fandom, then more engaged, higher-value fans should have a more robust social life. Or, more plainly: the bigger a fan you are, the more friends you will have.
+ 
+As it turns out, counting friendships is more complicated than it seems. Try it: how many friends do you have? It’s a difficult question to answer, because our brains don’t work that way. We need to categorize before we can count. To get reliable responses, we needed an organizing principle simple enough to help people access their answers, but complex enough to produce useful data. Our solution was to categorize friendships into common origin points — childhood, high school, college, work, kids, fitness activities, and so on — and then ask respondents about the friends they met through those origin points.
+ 
+For each relevant friendship origin point, we asked three simple questions: (1) How many friends do you have from this origin point? (2) How much do you value those friendships? (3) How often do you interact with those friends? Apart from producing a reliable total number of friends, these questions added dimension to each respondent’s social network. They also sharpened our hypothesis: if High-Value Fans are motivated by social experiences, then High-Value Fans should not only have more friends, but they should value those relationships more, and engage with those people more often.
+ 
+We have asked this same battery of questions to more than 30,000 people in 11 surveys since January 2020. We then segmented survey respondents into four groups based on their Fan Value Score: Non-Fans, Low-Value Fans, Mid-Value Fans, and High-Value Fans.
+
+The results? Fans do, in fact, have more friends than non-fans. What’s more, they value those relationships more, and engage with those people more often. Engagement amplifies this effect, too: not only do fans have more friends than non-fans, but High-Value Fans have more friends than Low- Value Fans.
+ 
+Let’s take a closer look at the results. Figure 2.1 captures the average number of friends for each fan segment. Moving from left to right, we see that Non-Fans average 21.1 friends, Low-Value Fans average 20.8, Mid-Value Fans average 27, and High-Value Fans average 35.6. This basic pattern held across all 11 surveys, no matter the season, no matter the context. And while we saw subtle variations in the average number of friends, the proportion between fan segments never changed.
+
+ 
+ 
+ 
+ 
+Not only do fans have more friends, but they also value those relationships more. The next chart shows the percentages of respondents that “greatly value” their friends from each origin point, meaning they rated five or six on a six-point scale. You’ll see that at every origin point, the bigger a fan you are, the more likely you are to “greatly value” that friend group. The relative difference between segments is noticeable here, with the most dramatic lift appearing between Mid-Value and High-Value Fans.
+
+ 
+
+This holds for family members, as well. It turns out that bigger fans are more likely to “greatly value” their relationships with their mothers, fathers, siblings, and so on. Said another way: one way to improve the chances of having a solid relationship with your children is to pass down fandom. Sure, that’s an oversimplification, but on balance, fandom seems to dramatically (and positively) impact family dynamics.
+ 
+
+If bigger fans have more friends and value those relationships more, it should come as no surprise that they also tend to interact with those friends more frequently. We defined these interactions broadly: from heart-to-heart conversations to short-and-sweet text messages. It should also be noted that these are general interactions, not necessarily about sports. We simply asked how often respondents engage with each group of friends. As the next chart indicates, the more engaged the fan, the more frequent the interaction.
+ 
+ 
+
+It is important to note here that interactions do not operate in a linear fashion. Frequency is a force multiplier. That is, if you interact more frequently, then over time you will accumulate more and more individual interactions. So, for someone with a social network like Greg’s, these interactions can add up quickly.
+ 
+This explains, at least in part, why sports are such a powerful bonding agent: they give fans more opportunities to interact. As one fan put it in an interview at the beginning of the COVID-19 pandemic, “I guess I can always text a friend and ask how it’s going, but that’s kind of weird, especially just out of the blue on a Tuesday night. It’s so much easier to say, ‘Did you see that dunk?’ because then we can just interact naturally. That’s what I’m missing right now.” This ability to seed and grow social interaction is the magic of sports, and the impact on estimated number of monthly interactions is significant. For example, Non-Fans average an estimated 204 monthly interactions, while High-Value Fans average 454 monthly interactions.
+ 
+ 
+ 
+Hypothesis confirmed: fans have more friends, they value those relationships more, and they inter- act with those people more often.
+ 
+But why? Is fandom the reason?
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 2: WE CAN’T PROVE CAUSATION, BUT FANDOM IS THE DOMINANT VARIABLE   
+These same patterns manifested in survey after survey, with only slight variation. Every chart always looked the same. The natural question we had to ask ourselves, then, was: What other variables might influence this phenomenon? A variety of demographic variables are known to correlate to an increase in friendships. For instance, people who earn below $50K annually average
+22.7 friends, while people who earn more than $100K average 31.2 friends. The same goes for college education (more education = more friends) and the presence of children under 18 in the home (more kids = more friends). All of these variables show some relationship, but what’s the most influential variable?
+ 
+Let’s look at income first. In Figure 2.6, you’ll see the number of friends broken out by fan segment and across income tiers. Notice that the same general pattern holds across the spectrum of fandom, from Non-Fans to High-Value Fans, regardless of income tier. Further, within that pattern, High- Value Fans always have more friends. In fact, High-Value Fans who earn less than $50K have more friends (31.9 average) than Mid-Value Fans who earn more than $100K (30.4 average).
+
+ 
+ 
+ 
+ 
+ 
+The same holds true for education. As you’ll see, fandom positively impacts friendships at all education levels, and High-Value Fans with a high-school diploma have more friends than Mid- Value Fans with a college degree.
+
+ 
+ 
+ 
+We see the pattern again amongst people with children at home. Fandom positively impacts friendships regardless of the number of children, and High-Value Fans with no children have more friends than Mid-Value Fans with three or more children.
+ 
+ 
+ 
+
+So, no matter what demographic variable we evaluate, we see higher rates of friendship in higher- value fans, which suggests that fandom is the most influential variable.
+ 
+Another question nagged us: Do fans have more friends because of sports, or do more-social people naturally gravitate to sports? In other words, what is the direction of causation? Ultimately, it’s impossible to know. We didn’t personality-test every respondent. More importantly, even if we had, would they have been able to tell us which came first: their robust social networks or their attraction to sports?
+ 
+Here’s what we do know: sports are a mainstream cultural force that penetrates a significant portion of our society, and fandom is not relegated to any one personality type. Regardless of the results of your Meyers-Briggs test, one thing holds true: active engagement as a sports fan will grow your social network. This is not accidental or coincidental. This is the superpower of sports fandom, sparking connections between people and nurturing established relationships. Too often — and as we’ll see in the chapters that follow, to our detriment — we overlook this fundamental truth.
+ 
+For us, this paradigm shift was akin to a conversion. The scales fell from our eyes, and once we saw the true power of fandom, we could not unsee it.
+ 
+Which brings us back to Greg Armstrong.
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 2: THE PURCHASE DECISION FOR A FAN COMES DOWN TO THE FACILITATION OF SOCIAL INTERACTION 
+ 
+Greg Armstrong purchased his first season-ticket package for two reasons: he thought the Knicks were about to make a turnaround, and he wanted to share that experience with his children. We propose that it’s the second part of that equation that drove him to continue purchasing season tickets for, as of this writing, thirty years.
+ 
+Remember, Greg’s fandom took root in the soil of one of his earliest and most significant relationships: the one with his older brother. The Knicks were their shared passion, a common cause, an anchor for their relationship. Throughout his youth, especially when he started going to Knicks games, sneaking down into the lower sections of The Garden, Greg was doing so with his friends. When he became a father, he almost unknowingly used the Knicks to nurture his relationship with his children. He thought he was, in his words, “passing down the fandom.” But really, the Knicks were providing an opportunity for him to connect with his kids. When we spoke to him in 2021, Greg reflected, “My kids are growing up, they’re going to games, we’re spending time together, and the bond between us — it’s growing. Of course, we have times together at home, but going to games, even in a bad season, you have a good time at the game — you get to cheer and hug and high five.”
+ 
+When you look at Greg’s purchase decision through the relationship lens, it makes perfect sense. The Knicks’ record during any given year (or decade) becomes irrelevant, because this is about a father investing in his relationship with his children. The long commute from his home to The Garden becomes a feature, not a bug, because it means more time together. Each game becomes a collection of priceless moments shared between parent and child. Thirty-plus games a year will never be enough for Greg — because it’s not about the game.
+
+By Greg’s estimate, he has attended more than five hundred games with at least one of his four sons. The youngest, a recent college graduate, is the biggest fan. “That’s my sidekick,” Greg says. “He’s a passionate Knicks fan. He’s carrying the torch. To be honest with you, it means everything in the world to me, the fact that my son, he wants to go. I’m not dragging him. It’s way more than being with a friend, a buddy — he’s my flesh and blood.”
+ 
+Fandom is too often trivialized as a bunch of amped-up, testosterone-driven meatheads investing too much energy into a silly game. From this point of view, minus the face paint and aggression, Greg’s loyalty to the Knicks might look a lot like Puddy-the-face-painter’s unhinged passion for the Devils.
+ 
+Certainly, their vernacular is the same. When he was asked about his loyalty to the Knicks over the years in an interview on Fox 5, Greg explained, “There’s days when you come to the games and they continue to lose, and each game you come in with a bright outlook, and you want them to win, so you just got to hang in there and just be a real fan and pray for the day when things turn around again.” When talk turned to the 2021 playoff run, Greg gushed, “It’s unbelievable right now, been waiting for this for eight long years. It’s been frustrating, but it’s going to be so exciting to get in my seat, with my son, and watch this game. The energy and the passion of being in MSG — it’s going to be awesome.”
+ 
+When you look past the fan rhetoric, though, the stereotype dissolves, and Greg’s real motivations become clear: he’s looking forward to getting into his seat with his son. When asked what it was like to return to The Garden after the COVID-19 shutdown, he told Fox 5, “Going to games was a part of my life, so it was tough not being able to go. When we were actually able to get back in the building, it felt great. Even though it was only two thousand fans, it was still great. I know a lot of people that work here, my family, my friends — so it really felt great to get back.” Again, we see his true focus: the people in the stands, not on the court.
+ 
+At its core, Greg’s fandom is a social accelerator that facilitates friendships and deepens family ties. When he walks into The Garden, he’s walking into a web of meaningful relationships and continuing a legacy of social connection that began in his childhood. Moreover, fandom gives him something to talk about anywhere he goes, with nearly anyone he meets: his sons, his barber, his colleagues at work, and strangers on the subway. These daily interactions create a vibrant and fulfilling social life.
+ 
+That was our theory, at least. When we reconnected with Greg in 2021, we played it back for him. Was it possible, we asked, that it wasn’t passion for basketball or loyalty to the Knicks that motivated him to keep buying season tickets? Was it possible that he was actually investing in his social network, particularly his relationships with his sons? “I never thought of it that way,” Greg responded. “But if you really analyze it, it makes sense that that’s actually what’s going on. I mean, I don’t consciously do it, say, ‘Let me put my money up, so I can make all these things happen,’ but these are the effects.”
+ 
+We have received similar responses from every fan we have met along the way: first a flicker of recognition, then, unequivocally, “Yes, that’s exactly what’s going on.” Whether we are conscious of it or not — and we ourselves were not at all conscious of it before we started this journey — by engaging in fan behaviors, we are generating a social currency that pays dividends not only in the arena but also far beyond it. This insight changed the way we think about the sports business, but far more importantly, it revolutionized the way we think about — and engage in — fandom. As the
+
+world around us became increasingly more disconnected and polarized, we embarked on a new mission: to bring people together, one fan at a time.
+
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 3: SPORTS BETTING AS A MEANS OF UNDERSTANDING FAN ENGAGEMENT   
+ 
+ 
+ 
+Though many bettors adopt a “degenerate” persona when they talk about betting, our interviews with hundreds of sports bettors revealed that the persona did not reflect reality. So, if today’s sports bettors aren’t dangerously indebted to the Mob and compulsively wagering their kids’ college funds, then who are they?
+ 
+Well, first off, they are sports fans. In fact, fandom is a necessary precondition for sports betting. What does that mean? Well, while not all fans are bettors, all bettors are fans. On average, the bigger the fan, the greater the interest in betting. That might seem obvious, but it is an important starting point as we seek to understand sports bettors.
+ 
+To illustrate this fact, Figure 3.1 shows the relationship between fandom and betting interest. As the Fan Value Score increases from Non-Fan to High-Value Fan, so does betting interest. For example, 10% of respondents who had a Value Score of 5 are interested in betting. Moving up the scale, 35% of respondents who scored 20 are interested in betting, while 63% of respondents who
+
+scored 30 are interested. So, there is an obvious relationship between fandom level and interest in sports betting.
+ 
+ 
+ 
+But that’s just interest in betting. How many of these fans are actually placing bets? The next graph illustrates how a given fan’s likelihood of betting increases as their Value Score rises. No surprise, the line follows a similar trajectory.
+ 
+ 
+Now, let’s look at the distribution of bettors among Value segments. As Figure 3.3 illustrates, the vast majority of sports bettors (75%) are High-Value Fans, whereas only 1% of bettors are Low- Value Fans. Let’s put those numbers into context. Only 27% of our sample are High-Value Fans, and yet they make up more than three-fourths of all bettors. Low-Value Fans, on the other hand, account for 18% of our sample, and only account for 1% of all bettors. Again, while not all fans are bettors, all bettors are fans.
+
+ 
+ 
+ 
+These distinctions are important because they help us make more accurate comparisons between non-bettors and bettors. Let’s start with the demographics. Comparing non-bettors and bettors, we see quite the opposite of the “degenerate” stereotype. In fact, bettors are more likely than non- bettors to be married, to have children, to be college educated, to be employed full-time, and to earn more than $100K per year. Bettors are even slightly more likely than non-bettors to attend religious service frequently.
+
+ 
+ 
+ 
+As we saw in Chapter 2, these demographic markers have a positive relationship with fandom in general. Because we know bettors skew High-Value, one could assume that these demographic characteristics are a function of fandom generally and not betting specifically. In the next chart, we look at the same demographic attributes, split between non-bettors and bettors, but only among High-Value Fans. As you will see, even among High-Value Fans, bettors remain more likely than non-bettors to be married, to have children, to be college educated, to be employed full-time, and to earn $100K+ per year.
+
+ 
+ 
+ 
+No matter how we slice it, sports bettors have a demographic profile that runs counter to the common stereotype. These are not “degenerates” risking the mortgage against the odds. They are not down-on-their-luck losers taking desperate chances to catapult themselves out of debt. They’re not rabbit’s foot–rubbing hopefuls with dollar signs in their eyes. In fact, it’s quite the opposite. But these demographics are only part of the story.
+
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 3: FRAME ALL FAN ACTIVITIES AS MOTIVATED BY THE DESIRE TO CONNECT SOCIALLY WITH OTHER PEOPLE   
+In Chapter 2, we looked to Greg, the Knicks season-ticket holder, to illustrate how social connections fuel what — on the surface — seems like an expensive, time-consuming, and altogether irrational season-ticket purchase. We found that the underlying motivation driving Greg’s decades- long decision to buy season tickets was belonging. Greg isn’t buying tickets so much as he’s investing in connection with other fans and in quality time with his sons. This changed how we see the Gregs of the world, as well as how we think about fandom in general.
+ 
+What happens when we apply this same social lens to sports betting? As higher-value sports fans, it stands to reason that bettors should be tapping into the social benefits of fandom. As you’ll see in the following chart, non-bettors average 27.9 friends and bettors average 32.3 friends. We should expect this because most bettors are High-Value Fans, and we know that High-Value Fans have more friends. When we look only at High-Value Fans, the friend gap between non-bettors and bettors closes.
+ 
+ 
+ 
+ 
+
+The real difference between non-bettor and bettor social activity appears when you look at the frequency of their interactions. We see that bettors interact with their friends almost twice as often as do non-bettors. In fact, even when we looked only at the High-Value Fans segment, we found that High-Value non-bettors average 409 monthly interactions, while High-Value bettors average 521 monthly interactions. So, it appears that something about betting creates more social interaction.
+What’s going on?
+ 
+ 
+ 
+
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 2: THE FAN FLYWHEEL   
+ 
+We now understand that sports betting is far from the seedy, outlier activity we once thought it was. In fact, it is the activity that best illustrates a phenomenon we have come to call the fandom flywheel. But before we go any further, we need to explain the flywheel concept.
+ 
+If you’ve ever been to a playground with a merry-go-round, you’ve encountered a flywheel in its simplest form. Imagine you load about three hundred pounds’ worth of rambunctious children onto a circular metal platform about eight feet in diameter. They grip tight to handrails meant to keep them from flinging off. If you’re the workhorse tasked with getting this thing going, you dig your feet into the dirt, grab onto a handrail, lean your full weight into it, and slowly, one step after another, start rotating the platform to the squealing soundtrack of “Faster! Faster! Faster!” The first few rotations are a slog. But as you keep pushing, the disk starts to turn faster. Eventually, momentum kicks in, the load seems lighter, your feet move faster, and you begin running alongside the spinning disk until you can no longer keep up. And then, you let go and the children are a blur speeding past you, the merry-go-round propelling itself forward.
+ 
+In his seminal book, Good to Great, Jim Collins applies this flywheel concept to the effort it takes to achieve long-term, sustained business success.4 He writes, “Imagine that your task is to get the flywheel rotating on the axle for as fast and as long as possible.” The trick, as Collins points out, is this: no one “big push” gets the flywheel spinning. Rather, it’s the cumulative effect of many “small pushes” that eventually add up to big results. Collins is describing the impact that compounding returns have on consistent, sustained effort.
+ 
+In Brad Stone’s The Everything Store, an account of Amazon’s rise, the author describes a meeting between Collins, Jeff Bezos, and the Amazon management team during the company’s early days. 5 He writes:
+ 
+Drawing on Collins’[s] concept of a flywheel, or self-reinforcing loop, Bezos and his lieutenants sketched their own virtuous cycle, which they believed powered their business. It went something like this: lower prices led to more customer visits. More customers increased the volume of sales and attracted more commission-paying, third-party sellers to the site. That allowed Amazon to get more out of fixed costs, like the fulfillment centers and the servers needed to run the website. This greater efficiency then enabled it to lower prices further. Feed any part of this flywheel, they reasoned, and it should accelerate the loop.
+ 
+The “loop” is the key component here. Essentially, X causes Y, which in turn influences X, and so on. A flywheel leverages a positive feedback loop: the faster the flywheel spins, the more energy it generates; the more energy it generates, the faster it spins. A flywheel can also fall victim to a negative feedback loop: the slower the flywheel spins, the less energy it generates; the less energy it generates, the slower it spins. “Small pushes” + “positive feedback loop” = sustained momentum. It is precisely this type of momentum that has famously propelled companies like Amazon — and Apple and Disney, to name just three§ — to tremendous success.
+ 
+So, what does all this have to do with fans? Think of your own fandom for a moment. What was the “first push” that set it in motion? What “positive feedback” did you receive from those early experiences? What “small push actions” did you take in response to that feedback? And perhaps
+
+most importantly, who was involved in those early fan experiences? No matter where it started, your fandom has been propelled forward by a feedback loop between fan activities and social engagement.
+ 
+Sports can enhance a fan’s social life in three ways:
+ 
+First, sports act as a bonding agent that galvanizes relationships. For example, sports can be the foundation of your relationship with a parent, sibling, or neighbor: it’s the thing you talk about, the activity you engage in together, the backdrop for some of your fondest memories.
+ 
+Second, sports anchor social interactions that otherwise would not take place, like when your college basketball team’s Cinderella run gives you a valid excuse to text an old roommate you haven’t talked to for years, or the retirement of a franchise player has you on the phone with your father, reminiscing about career highlights.
+ 
+Third, sports imbue individuals with a tremendous amount of social capital. Just think about how informed takes on the playoffs — any playoffs — give you something to talk about at a backyard barbecue, or how even minimal MLB knowledge can open the door to a conversation with a barista wearing a Cardinals cap.
+ 
+This relationship between fandom and social interaction creates a feedback loop. As a fan engages in more fan activities, they have more social interactions, which inspires more fan engagement.
+Momentum builds. As they deepen their sports engagement, they grow their knowledge base and their cache of fan stories, which opens the door to more sports-related social interactions. The fan flywheel is now spinning freely, with this positive feedback loop incentivizing fans to lean into their fandom, generating more social interactions, which in turn incentivizes engagement in more fan activities. And on and on the flywheel spins.
+ 
+Perhaps more clearly than any other fan activity, sports betting shows the fan flywheel in action. The incentive — whether bettors are conscious of it or not — is social. Just think about what a single bet can spur. Imagine a fan who draws from years of knowledge to place a bet on a single game. She gets together with a friend to watch, and the bet now gives her other angles to talk about the game (weather, injuries, hot streaks, etc.). Say the two friends decide to watch the game together at a bar, and the other patrons get wind of the bet. All the research the bettor did to place the bet spills out in conversations with other patrons at the bar. She can talk about the bet itself, or she can simply infuse her betting rationale into takes about the game: “This quarterback always struggles in cold weather.” Now, everyone around her is talking about the game, debating the line, analyzing positional matchups. Someone says she bets. Another offers his own prognostication. The bartender chimes in with a bad beat story from the previous weekend. The shared interest in the room blooms. Everyone is engaged, everyone is connecting. And all this social momentum blossomed from a single “small push” activity.
+ 
+Now consider that, for most sports bettors, betting is rarely a single transaction, but rather a whole host of “small push” activities — researching bets, listening to betting-focused podcasts, placing multiple bets, watching the games they bet on, joining pick-’em pools. All of these activities pay off with more social interaction, which generates more engagement in fandom that, in turn, creates more social interaction. And so the flywheel spins.
+
+That’s the flywheel in motion: place a bet, interact with others, go on the ride, celebrate or commiserate, rinse, repeat. If betting is contained within reasonable financial boundaries, the sum of this activity has a net positive impact on bettors. Namely, it creates more frequent and more vibrant social interactions.
+ 
+Our intention here is not to advocate for sports betting, per se, but to shed light on the way fandom works: fan activities pull you deeper into fandom, which creates more social interactions, which incentivizes more fan activity, and so on. Sports betting brought the fandom flywheel to life for us, but the flywheel works in the same way with other fan activities, too. Let’s broaden the scope and consider those.
+ 
+If we look again at the measure of “total monthly interactions,” what’s clear is that you don’t have to be a sports bettor to experience the social benefits of fandom. You simply have to engage in more activities. Among all fans, each of the activities listed in Figure 3.8 leads to more social interactions. For example, fans who do not participate in a fantasy league average 244 total monthly interactions, while fans who do average 439. It’s the presence of the activity — the increased engagement — that, in turn, generates more social interactions.
+ 
+
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 3: MARCO ADOPTED FAN ACTIVITIES BECAAUSE OF THE SOCIAL INCENTIVES   
+Raised in a small town in Italy in the 1980s, Marco grew up playing soccer. But when high school graduation came, his soccer days ended. In Italy, you either play ball, or you go to school. You don’t do both. College sports, athletic scholarships — they weren’t an option. Marco’s mother had impressed upon him that education was important, and sports were for fun, so he headed off to college, pursing a dual degree that allowed him to study for the first two years in Italy and the second two years abroad.
+ 
+For those second two years, Marco landed in Boston, across the street from Fenway Park. That was in 2005. “I had no idea Fenway was such a big deal.” Though he had some familiarity with baseball, he had heard only of the Yankees. During his two years in Boston, he confessed, “I never went to see the Red Sox.” He had too much on his mind to bother with sports. He shrugged: “I had to figure out English first.”
+ 
+At the end of his stint in Boston, Marco accepted a six-month internship, and then a full-time position, at Merrill Lynch in New York. This is where his true education in American sports began. “My initial bosses at Merrill were both baseball fans. One was a Mets fan, and the other was a Phillies fan, and so I naturally became a Yankees fan to antagonize them.” The Yankees were doing well at the time, and Marco attended a few games with his colleagues. But for a guy whose sports rhythm was set on the constant motion of soccer, baseball seemed more like “an interesting social experiment” than an exciting sport to watch.
+ 
+Then Marco switched work groups and found himself among a bunch of (American) football fans. To join in their discussions, he “started watching some football. “Coming from Italy, I didn’t have a lot in common with a lot of Americans, but I found a lot of appreciation for football players in terms of their physicality, the speed, the techniques. Despite the game stopping a lot, it was a lot more interesting to me than baseball ever was.” As it happened, that year the Patriots were on fire, ending their regular season 16–0. “I got interested in a team that could make history,” Marco said, “so I hosted a Super Bowl party.”
+ 
+Spoiler alert: the Patriots lost. But Marco, in search of social connection with his colleagues, had pushed the fandom flywheel. And it started to spin.
+ 
+The next season, he added another fan activity: joining a fantasy football league. “It was a big opportunity for me to get closer to other people, to have something in common to talk about. It would force me also to pay more attention and understand the game better because the rules are complicated.”
+ 
+As the flywheel gained momentum, Marco’s social connections grew, and his fandom deepened. Watching NFL RedZone and managing a fantasy football team, in combination, became a great way for him to become more knowledgeable about the NFL in general. “It definitely gets you to follow more and appreciate the sport more. Initially I was doing season-long fantasy football, where you have a draft at the beginning of the year. That involves a lot of up-front work and then maintenance over the weeks, but that caused too much frustration related to luck and injuries, so I moved to daily fantasy, where you get an opportunity to build your team every week. That requires you to become a much better observer of trends, and that got me more excited about certain players.”
+
+In 2018, when Marco and a few colleagues founded their own business, he immediately recognized an opportunity to bring the group together: he started a fantasy football league with them. He remained active in the Merrill Lynch league and in the new one, because together they allowed him “to network and stay in touch with a lot of different people.”
+ 
+Meanwhile, Marco discovered that he and a work friend shared a passion that predated his immigration to America: golf. The two began discussing golfers, playing together, and inviting others into their conversations. As that added activity accelerated the flywheel, friendships grew. Marco and his buddies began meeting up to watch tournaments together on TV.
+ 
+Then, on June 11, 2018, a new fan activity appeared: sports betting became legal in New Jersey. Marco wasn’t a bettor, but he was a resident of New Jersey, so some of his friends at work, who lived in non-betting New York, began asking him to place bets on their behalf. “Until very recently, I was the one only who could put in bets, so I was basically the bookie.”
+ 
+Why did a non-bettor get involved in this process? Because he loved the interactions that betting sparked among his colleagues: the debates, the hot takes, the discussions, the live-texting during games, celebrating wins, commiserating losses, talking trash. His involvement in fantasy leagues had improved his understanding of the sport, which prepared him for in-depth conversations about each week’s games, thus making him an essential member of the betting group beyond his “bookie” role. All of these different fan activities — Sundays watching RedZone, the fantasy leagues, the sports betting — resulted in more social interaction, which only incentivized deeper fan engagement. Marco’s fan flywheel might have started slowly, but once it gained momentum, it started to spin freely, and his social connections flourished.
+ 
+More importantly for Marco, betting gave him something positive to talk about with his colleagues. “There are things that don’t make us happy about work, and this is a way to stay in touch after work, and not just complain about work. For me it’s a good way to have something else to share.”
+ 
+Once again, this enhanced engagement in fan activities paid social dividends. Marco’s friendships within the betting group grew beyond watching a game at a bar, debating who would win or lose over a business lunch, or goading via text during games. “One of the guys I talk with about betting, he has four tickets to the Masters. His father could not go with him. He could have sold the ticket for
+$1500, but he gave it to me at face value.” Attending the golf tournament has been a dream for Marco, and now it’s coming true, with a good friend, thanks to the momentum of the fan flywheel.
+ 
+In the end, Marco sees the benefits of the flywheel in his personal and work lives. “Becoming close friends outside of work makes it easier to collaborate and work well together. When you become friends, then you become more accountable to each other. You don’t want to let each other down.” In his experience, “People who bet together, stay together.”
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 3: FANDOM LEADS TO MORE SOCIALIZING, SOCIALIZING IS GOOD FOR PEOPLE AND IMPROVES WELLNESS OUTCOMES 
+This flywheel we’re talking about — it’s not trivial. It doesn’t merely pull you into buying jerseys, or watching more games, or deepening your sports knowledge (although it does do those things). It pulls you into initiating more social interactions. And that, we suspect, is where the real payoff lies.
+
+George Vallaint, principal investigator in The Grant Study, would agree. The Grant Study of Adult Development, which began in 1938, followed the lives of 268 men, all Harvard graduates, for 75 years, analyzing various components of their health and wellbeing.6 When asked in 2008, “What have you learned from the Grant Study men?” Vallaint responded, “That the only thing that really matters in life are your relationships to other people.”7
+ 
+Knowing that fandom increases social interactions, we leaned into the idea that it could also elevate fans’ sense of wellness. We began incorporating wellbeing measures into our research. Soon, the cascading benefits of fans’ rich social lives became clear. In what follows we highlight the impact of fandom across five wellness markers: happiness, satisfaction, optimism, gratitude, and confidence.
+ 
+To measure happiness, we borrowed a scale from the Pew Research Center, an organization that regularly tracks happiness using a simple three-point scale: Very Happy, Pretty Happy, Not Too Happy. In the chart below, you will see a familiar pattern: the bigger the fan, the higher the level of happiness. Just over a third (34%) of High-Value Fans described themselves as very happy, compared to 25% of Mid-Value Fans and 20% of Low-Value Fans. More precisely, the bigger the fan, the more social interaction; the more social interaction, the happier the person. It’s the additional socializing that fandom inherently spurs that leads to this increased happiness.
+ 
+ 
+ 
+Next, we employed a life satisfaction scale, also from Pew, asking respondents to rate their satisfaction with life in three areas: their family, their community, and their personal financial situation. With this added level of detail, we see even more dramatic differences in wellbeing between Non-Fans and High-Value Fans.
+
+We turned to Pew yet again to measure optimism, asking respondents to imagine how various aspects of their lives would look a year out. These included overall happiness, personal finances, connection with family, connection with friends, and connection with the local community. As you can see in Figure 3.10, a familiar pattern emerges: the bigger the fan, the more optimistic about the future, across all aspects of life.
+ 
+ 
+Interestingly, High-Value Fans are much more optimistic than lower-value fans about their connection to their local communities. Seeing this, we wondered if loyalty to a local team might drive this connection. But we found no evidence to suggest this. The connection is not driven by an attachment to a local team or that team’s relative success. Rather, the fans’ greater number of social interactions forges stronger bonds with their local communities.
+ 
+As an additional measure of wellbeing, we used The Gratitude Questionnaire, which was developed to measure people’s experience of, well, gratitude.8 As the next chart indicates, the bigger the fan, the higher the degree of gratitude, across the board.
+
+Finally, it occurred to us that people with robust social networks, and with elevated levels of happiness, satisfaction, optimism, and gratitude, might also move through the world with more confidence. To measure confidence and self-worth among fans, we borrowed attributes from the Rosenberg Self-Esteem Scale, the instrument most used to measure self-regard.9 We see, once again, that High-Value Fans outpace all segments.
+ 
+ 
+ 
+This is the fandom flywheel in action. Propelled by its feedback loop, the flywheel spins ever faster with each added activity, not only pulling fans deeper into their engagement with sports, but also producing greater social connectedness, which generates an elevated sense of wellbeing among fans.
+ 
+When we remove our preconceived notions, connect the dots, and understand the logic that underpins fandom, the connections between fan activities and heightened wellbeing become clear. And as we’ll see in Chapter 4, when leveraged mindfully, that sense of wellbeing can grow beyond individual fans’ lives, positively impacting entire communities.
+
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 4: FANDOM AS A WAY TO COMBAT LONELINESS 
+At the beginning of his tenure as the 19th Surgeon General of the United States, Dr. Vivek Murthy took a “listening tour” throughout the country.
+ 
+“We were welcomed into communities from Alabama to North Carolina, from California to Indiana,” he recalls in his 2020 book, Together: The Healing Power of Human Connection in a Sometimes Lonely World.10 “We sat down in small group meetings and large town halls, spending time with parents, teachers, pastors, small business owners, philanthropists, and community leaders.
+Everywhere we went, we asked a simple question: How can we help?”
+ 
+Many of these discussions confirmed suspected pain points: obesity, heart disease, diabetes, and opioid addiction. But one recurring theme surprised Dr. Murthy: “Loneliness ran like a dark thread through many of the more obvious issues that people brought to my attention.”
+ 
+Research confirms Dr. Murthy’s observation about the underlying condition of loneliness. “If you are lonely,” writes Noreena Hertz in her 2021 book, The Lonely Century: How to Restore Human Connection in a World That’s Pulling Apart, “in addition to being at greater risk for mental health issues such as depression and anxiety, you have a 29% higher risk of coronary heart disease, a 32% higher risk of stroke, and a 64% higher risk of developing clinical dementia. If you feel lonely or are socially isolated, you are almost 30% more likely to die prematurely than if you are not.”11
+ 
+How is it possible that something we think of as an emotional condition can have such a poisonous physiological impact? As it turns out, loneliness is a stressor that triggers hormonal responses in the body. Over time, those stress hormones can contribute to dangerous physical maladies.
+ 
+Fortunately, loneliness has an antidote in its polar opposite: belonging. “While loneliness has the potential to kill, belonging has even more potential to heal,” Dr. Murthy contends. In his role as Surgeon General and in treating patients, he notes, “I met thousands of people who struggled with addiction to opioids, alcohol, and other substances, and when I reflect on those who made it through that dark tunnel and emerged in recovery, nearly all of them described a trusted relationship or trusted group of close family or friends who had made their recovery possible.”
+ 
+Research shows that belonging also enhances physical wellness. National Geographic Fellow Dan Buettner, author of The Blue Zones: Lessons for Living Longer from the People Who’ve Lived the Longest,12 has spent his career studying “blue zones”: geographic regions known for statistically higher-than-normal life expectancy. Healthy diet and regular exercise are, unsurprisingly, shared attributes across these blue zones. But when we sat down with Buettner to discuss the health impacts of social connection, he told us, “If you don’t have three friends you can count on on a bad day, it shaves about eight years off your life expectancy, as opposed to somebody who’s well connected.”
+ 
+Buettner first recognized the health benefits of socialization while conducting research on the blue zone of Okinawa, Japan, where he encountered the “ritualized vehicle for companionship,” called moai. In The Blue Zones, first published in 2008, he explains, “The notion of moai — which roughly means ‘meeting for a common purpose’ originated as a means of a village’s financial support system [...]. Today the idea has expanded to become more of a social support network.”
+
+The first moai Buettner witnessed consisted of five women, ages 77 to 102, who gathered daily to gossip, laugh, problem-solve, and commiserate. It occurred to him that “Japanese women on average were doing something special to live almost eight percent longer than American women. Their moai might very well be part of the equation. Chronic stress takes its toll on overall health, and these women have a culturally ingrained mechanism that sheds it every afternoon at 3:30 p.m.”
+ 
+More than a decade after this first observation, Buettner reflects, “Most of the things that are implanted in the American brain when it comes to things that favor longevity are things that are relentlessly marketed to us, like super foods and supplements, but I would argue there’s better research for the impact of long-term social connectivity than there is for any diet or any supplement or any quote unquote superfood.”
+ 
+You can see why, though Dr. Murthy had “never considered [loneliness] as a potential public health priority,” he now recognizes that “overcoming loneliness and building a more connected future is an urgent mission that we can and must tackle together.” We could not agree more with the Surgeon General. But how can we improve our collective sense of belonging? How can we foster life-changing social connections, at scale?
+ 
+Coincidentally, at the same time the loneliness problem began receiving mainstream attention across the US, we were on our own journey into the social lives of sports fans. The relationship between the two phenomena became obvious: fandom creates belonging, and belonging is the antidote to loneliness.
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 4: THE SCOURGE OF LONELINESS TODAY  
+Before we talk about fandom as an antidote to loneliness, we need to break down the loneliness problem in more detail.
+ 
+The word “lonely” may conjure up images of a person physically isolated from others — an elderly woman sitting alone at her dinner table, or a child sequestered in the school library while his classmates are on the playground. However, one can be alone without feeling lonely, and one can feel lonely while surrounded by people. In other words, whether you feel lonely or not is not about your proximity to other people; it’s about your connection to them, or lack thereof. As Dr. Murthy puts it, “What’s missing when you’re lonely is the feeling of closeness, trust, and the affection of genuine friends, loved ones, and community.” Loneliness is effectively the absence of meaningful social connection. To be connected is to be seen and heard and supported by others. To be lonely is to be bereft of affection, intimacy, and fellowship with others.
+ 
+It’s also important to note that loneliness — and belonging — can manifest across different dimensions. Drawing on a broad body of academic work, Dr. Murthy points to three specific types of relationships that are important: intimate, as in a close confidante or life partner; relational, as in connections to a circle of friends; and collective, as in a sense of belonging to a larger community.
+Noreena Hertz argues that people can also feel connected or disconnected in a fourth dimension: at the societal level. People may lack support not only in familial or social contexts, she notes, but also feel politically and/or economically excluded.” Both Murthy and Hertz agree that a person can experience connection in one or more of these areas while experiencing disconnection — or loneliness — in others. For instance, a happily married person might feel loneliness if he lacks the
+
+companionship of friends, or a person who has an active friend circle might feel lonely if she doesn’t have a close confidante.
+ 
+To address the multidimensional crisis of loneliness, we need multidimensional solutions: tools that enable people to connect with one another in meaningful ways, to feel part of something larger than themselves, and to navigate challenging social circumstances. To illustrate how fandom can solve for loneliness, we’d like to introduce you to Jennifer Pratt, who has experienced fandom as the glue that holds her family together; as the bonding agent that connects strangers and turns them into friends; and as the key to developing a sense of belonging.
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 4: HOW FANDOM CAN FACILITATE FRIENDSHIPS  
+As is the case for so many fans, Jennifer’s fandom began with family. She first encountered the NFL as a ten-year-old in 1991, when she travelled to visit relatives in Los Angeles from her home in Kingston, Jamaica. “My uncles took me to a Raider game, and that is where my mind was blown,” she told us. “I was like, ‘What is this?’ You don’t have professional sports like that in Jamaica. That energy... I’ll never forget that feeling of being at a football game. It’s like getting shocked — an electric shock — but instead of my body, it was my spirit.”
+ 
+A year later, Jennifer immigrated to the United States, where her family kept alive the Jamaican tradition of Sunday dinners, but with a distinctly American twist: NFL games as the centerpiece. “I have a very large family, seventeen uncles and two aunts. Football was where we came together. It was this unifying family thing we did, where I could hang out with my uncles, and I got this cohesive family time.” While the women in her family gathered in the kitchen and the rest of the kids played together outside, Jennifer stayed focused on the game with her uncles. “I would just sit there, watching the screen. I didn’t know what was going on, but I liked it.”
+ 
+Eventually, two uncles — Andrew and Stephen — taught Jennifer the rules of the game (and how to throw a perfect spiral). “They are the ones who would explain things to me and guide me through it, without making me feel stupid, which I appreciated. My Uncle Andrew got me my first Raider jersey from a swap meet. I still have that jersey.”
+ 
+Looking back, Jennifer believes that football helped her find her place in the family. Her bond with her uncles remains strong today, held together by three decades of shared fandom. “There are forty women in my family,” she said, “but I am the only one who will watch sports with the guys. […] It’s why I get along with my uncles so much.”
+ 
+Today Jennifer is a highly intelligent, compassionate, outspoken woman with a wicked sense of humor. She’s a special-needs educator and business owner. From her half-blonde braids, to her six- foot-tall frame, to her boisterous personality, Jennifer commands attention when she walks into a room. So, when she told us, “I was a shy kid. Very shy,” we found that hard to imagine. She explained: “I was an immigrant in this country. I came from a very small city, on a very small island, and now I’m this Black kid around a bunch of white kids who all speak differently than I do. They don’t understand me, we have different customs and cultures. So, I didn’t feel good about myself. I was the weird Jamaican kid with the funky accent. I was the only Black kid, and that’s a very polarizing feeling to be the other, which is literally what I was called: ‘the other.’ I hated school. I was good at school, but I didn’t love being there because I got picked on. My family was my refuge,
+
+and in that refuge was Sunday dinners, and as I hung out with my uncles more, a little confidence bubble started to grow.”
+ 
+At the age of eleven, Jennifer’s newfound love for football, her acceptance among her uncles, and her ability to connect “as one of the guys” helped establish some much-needed self-confidence. In fact, Jennifer believes her fandom — and the resulting relationships — helped her find her voice. “Middle school was where the bullying for my accent started. That’s also when guys and girls started hooking up, and I was a short, fat kid. No one was interested in me. All I had was football. I needed some friends, so I saw some kids wearing jerseys, and I was like, ‘You like football?’ They were like, ‘Dude, we love football.’ ‘Who’s your team?’ This one kid, Raymond, was like, ‘The Raiders,’ and I was like, ‘You’re my people. I hang out with you now.’ So, I followed these dudes around, and they were like, ‘Why is she here?’ They weren’t nice to me, really, but they let me sit with them, and that’s all I wanted: someone to let me sit with them, because I was tired of sitting by myself.”
+ 
+Fandom enabled Jennifer to take the first step on the road to belonging, but it wasn’t a panacea. “When I got to high school, kids were super mean — like beat me up to the point that I was in the hospital mean. But Raymond came to see me in the hospital. He brought me flowers. He spray- painted them Raiders’ colors. Raymond’s dad was a Raider fan, so I was like, ‘You guys want to come to Sunday dinner?’” That invitation built a bridge to a lifelong friendship. “Raymond is still around today,” Jennifer said. “We go to games together. He’s like family. And it all started with a jersey.”
+ 
+During high school, the tide started to turn for Jennifer. She began standing up for herself and others. “There was this guy named Eric,” she told us. “He would grab girls’ butts. The girls wouldn’t say anything. So, I saw Eric do that, and I was like Smack! ‘Don’t do that!’ He flew back, shocked. He looked at me like, ‘That’s the girl who fights,’ and I was like, ‘No, that’s the girl who stands up for herself and other people.’ I didn’t see him grab another butt after that.”
+ 
+Jennifer traces this transformation — from shy immigrant kid to girl who stands up to the boys — back to sports fandom: “I always knew I had a voice, but I felt afraid when I first moved here. The older I got, that part of me that was afraid just didn’t exist anymore. I don’t know that if I hadn’t hung out with my uncles that I would have discovered that. Without knowing it, indirectly they gave me the chance to be myself and to have the space where it was okay to just be me, without fear or reservation, or ever even thinking about how someone would perceive me.”
+ 
+As it turns out, her uncles helped to plant two seeds for Jennifer: her love for football and her awareness of fandom’s ability to help her navigate loneliness, bigotry, and bullying. Today, she actively leverages her fandom to deepen relationships, energize her social life, and build community.
+ 
+Jennifer is far from alone in reaping these benefits of fandom. We have already established that sports fans — especially High-Value Fans — not only have more friends, but also engage with their social circles far more often. It would follow then, that fans would experience more belonging. To test this hypothesis, we integrated the UCLA Loneliness Scale, the gold standard for loneliness measurement, into our surveys.13 As you’ll see in the next chart, the differences are stark.
+ 
+Once again, we see the fandom flywheel at work. The difference between Non-Fans and High-Value Fans is dramatic. For instance, 61% percent of High-Value Fans strongly agree that they “feel close
+
+to people,” compared to just 37% of Non-Fans. How is it possible that fandom elevates a fan’s sense of belonging in this way?
+ 
+ 
+
+We believe the answer is scale. Because sports are ubiquitous in our culture, fandom gives people the ability to strike up a conversation with nearly anyone, nearly anywhere. Fandom is easily signaled: by something as simple as an emblem on a baseball cap, a sticker on a laptop, or a license- plate rim. Further, fandom gives people hundreds of opportunities a year to host a watch party, connect with a friend over a beer, or jump into a group chat with family members in multiple time zones. Engaging in sports fandom increases our opportunities to make multidimensional social connections, which encourages deeper engagement in fandom, which only begets more social connection. Over time, this feedback loop makes a dramatic impact on our day-to-day lives. At the end of the day, the more one activates the social power of their fandom, the more they reap the benefits.
+ 
+Fans like Jennifer are not one bit surprised when presented with the evidence that fandom is a social superconductor. As she says, “Intrinsically, all humans need and want connections. How do you go about that? For me it’s football.”
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 4: USING FANDOM AS A TOOL TO MAKE FRIENDS PROACTIVELY  
+As we’ve discovered, fans have more friends. They interact more often. And, on balance, they feel more connected. Those facts aren’t just something that’s nice to know. Writ large, they signal fandom’s immense potential to impact society.
+ 
+Being a fan creates a greater sense of belonging, and belonging is something that we desperately need. In 2020, a Cigna survey of more than 10,000 adults revealed that three in five Americans (61%) are lonely.14 Notably, that research was conducted before the COVID-19 pandemic upended our social lives. The structural factors — economic, technological, cultural — contributing to isolation were in place well before COVID-19. We’re just beginning to understand the effects of the extended period of pandemic-induced social isolation. Thanks in part to authors like Murthy and Hertz, the “loneliness epidemic” is top of mind now. Beyond merely understanding its causes, we feel called to activate solutions. We believe sports is one of them.
+ 
+The magnitude of the loneliness problem is daunting. Undoubtedly, a comprehensive solution will require systemic changes the scale of which are difficult to imagine. But we don’t need to wait for that to happen. Fandom is a powerful antidote to loneliness, and one that we can activate, at scale, right now. Together, fans can use sports to expand social connection, develop a sense of belonging for themselves, and offer that sense of belonging to others. In fact, if you’re sports fan, whether you’re conscious of it or not, you might already be using sports this way. Jennifer certainly has.
+ 
+In her early thirties, when Jennifer temporarily relocated to Denver, Colorado, she didn’t know a soul in town. So, she activated fandom’s superpower: she went to the nearest sports bar, knowing she’d find someone to talk to there. Jennifer calls these casual acquaintances “fast friends.” She explains, “All of a sudden, you’re sitting next to someone, and you’re like, ‘You like this sport? Cool. Now we’re buddies for two hours.’ You may never see that person again in your life, but for two hours you were best friends because you were rooting for the same team.”
+ 
+These experiences are ubiquitous among sports fans: no matter where you land, if you can find a bar with a game on, you can find someone to talk to, and you can turn that room into a space where you belong. In Denver, Jennifer transformed some of those fast friendships into lifelong
+
+relationships: “My core group of friends were people I met at the bar. I was just welcomed into this group. People started inviting me into their houses for games. So, I was like, ‘Can I cook for you? I can flex my Jamaican culinary skills.’” And then she turned around and opened the door to others. “Football became the thing that helped me pick up little orphan friends, where it’s like, ‘Oh, you don’t have a family? Come be part of my football family.’ That’s one of the things that the NFL looks like to me: it’s like a big old melting pot.”
+ 
+Research suggests that even fleeting “fast friend” conversations between people — for five minutes or even five seconds — can elevate a person’s sense of wellbeing. In his 2021 book, The Power of Strangers: The Benefits of Connecting in a Suspicious World, journalist Joe Keohane examines both our hesitance and our need to connect, however briefly, with people we don’t know.15
+ 
+Keohane contends that “the single best predictor of happiness and wellbeing is the quality of a person’s social relationships.” He notes, however, that most studies focus on “close relationships: family, friends, coworkers.” What about that other dimension of belonging: a sense of connection to a larger community? He turns to the work of psychologists Gillian Sandstrom and Elizabeth Dunn, who have studied the impact of what are known in psychology as “minimal social interactions.” Even something as simple as talking to your barista while waiting for your triple shot latte, they found, can result in “a stronger sense of belonging and an improved mood” (even before the caffeine kicks in).16
+ 
+In a subsequent study, Sandstrom and Dunn looked at “weak ties”: a social category that describes “a passing acquaintance, or people we know by sight who aren’t necessarily friends.”17 They sent 58 college students out into the world, instructing them to tally the number of interactions they had with both weak ties and “strong ties,” like close friends and family members. The results? “[T]he people who had more interactions with weak ties ... were happier and felt a greater sense of belonging than those who had fewer.” Additionally, the students reported greater happiness “on days they had more weak-tie interactions.” To test their results, Sandstrom and Dunn ran the study again, this time with non-students. In the end, both studies confirmed that “interactions with weak ties were more potent on days when participants had fewer overall interactions.” In other words, “minimal social interactions” with “fast friends” matter. A lot.
+ 
+How can something as seemingly insignificant as small talk at a bus stop or the grocery checkout change our lives? According to Sandstrom and Dunn, “Weak-tie relationships give us short, low- cost, informal interactions, which often provide new information and social variety. As a result, we are often pleasantly surprised by these moments.”
+ 
+It seems that these minimal interactions have a flywheel of their own. It takes some effort to get a “talking to strangers” habit moving, but once the positive feedback loop kicks in, the benefits might surprise you. Not only can a pleasant conversation with a stranger put a smile on your face, it can trigger an uptick in oxytocin, also known as the “bonding” hormone. That jolt of oxytocin kicks off a “cascade of hormones and neurotransmitters” that ultimately alters brain activity “and makes you feel happy.” Imagine the ripple effect if every sports fan committed to engaging in one positive conversation with a stranger every day. Next time you see someone signaling their fandom, consider it an opportunity to say hello.
+ 
+But what about the more lasting, strong-tie relationships Dan Buettner observed in the moais of Okinawa? Can fandom help us formulate those?
+
+After studying existing blue zones across the globe, Buettner turned his attention to creating new ones through Blue Zone Projects, an initiative that partners with municipalities to elevate the wellness of their citizens. Integral to this process is the intentional formation of moais: connecting small groups of people based on “interests, values, demography, and geography,” and then engineering “the first ten or so meetings.” After that, “60 to 70% of people who take the time to join our moais stay with our moais.” Why? The combination of shared interests and propinquity — time spent together — foments friendships that extend beyond their original boundaries. So, over time, the people you met at the potluck moai or the walking moai become the people you call when you’re celebrating a milestone moment, when you need emotional support, or when they do.
+ 
+When we first read about moais we thought, There it is! That’s what fandom does! That’s what we’ve been observing for years! We asked Buettner, a non-fan who jokingly admits his knowledge of basketball amounts to “it involves a ball,” if he saw the parallel. “When you think about fans,” he told us, “You’re going to share the interest in sports, you’ll share proximity because you’re showing up to the game, you have this ready-made opportunity for people to meet, so you have an environment really ripe for creating moais.” Thanks to the frequency built into sports, Buettner posits that fans are more likely “to hit that tipping point” where friendships grow beyond their origin points, and “connect in the real world, which is where the magic happens.”
+ 
+Qualitatively, we have seen this proved true, time and again: a connection that begins at the sports bar, in an arena, or through a fantasy league grows beyond its origin point into a sustained and sustaining friendship. At scale, fandom becomes fertile ground for social connections that eradicate loneliness, improve health outcomes, and change lives. Fandom creates belonging.
+
+
+
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 5: RECOGNIZE THE POWER OF SPORTS FANDOM
+When we first set out to understand the fan experience, we certainly didn’t expect to become advocates for fandom’s ability to address widespread social problems like loneliness and polarization. More than anything, we were dissatisfied with the prevailing discourse around fandom. It felt incomplete. We knew — based on our own experience — that fandom offered us something more profound than conventional thinking prescribed, but we could not articulate exactly what that was. So, we started pulling at threads, revealing insights that would help us piece together a truer picture of how fandom operates.
+ 
+So, how does fandom operate? By this point, it should be clear that the driving force motivating all fan engagement is social connection. Once we tuned in to this insight, we could not unsee it. The social benefits of fandom sprang up everywhere. We saw our phones light up more often in the fall, with fantasy football trade offers and “Did you see that?” group texts. We realized that our New York friend networks really do get activated when the Yankees make the post-season. We saw how our “most frequently called friends” list shifts slightly as the sports calendar clicks over from football to basketball season. We saw all the fan activity for what it was: a seasonal cycle of social engagement. We saw the fandom flywheel in motion.
+ 
+We also started to use sports proactively, for specifically social ends. We were inspired to always send that text about that game. We went out of our way to acknowledge the stranger on the street sporting our favorite team’s gear. We started taking our kids to more games. We accepted every invite to every pick-’em pool — because we were aware that this sort of activity results in meaningful social interactions that make us happier, more satisfied, more optimistic, and more engaged with the people around us.
+ 
+Our journey — over many years — has been something akin to a religious conversion. Today, we’re not just converts but evangelists, spreading the good news about fandom. Although the positive case for fandom is rarely made, our research has shown clearly and consistently that fandom has a net positive effect on individuals and communities. And we therefore argue that increasing the number of sports fans and deepening their engagement will have a positive impact on society at large. This is a big idea that imbues our work with a true sense of purpose. So, while we didn’t set out to become advocates, that’s the position we find ourselves in today.
+ 
+If you peel back the layers, what we’re ultimately advocating for is more belonging. That’s the end; sports are simply the means. We are social creatures by nature, and social connection is a critical component of a happy, fulfilled life. In aggregate, happier, more fulfilled people make for a happier, more fulfilled society. That inherent potential is why we are asking you, dear reader, to embrace your fandom.
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 5: FANDOM IS A SOCIAL SUPERCONDUCTER  
+ 
+ 
+Sports fandom operates as a social superconductor because of its scale. Simply put, we believe that sports are the greatest galvanizing force for social connection in human history. That might sound grandiose. But if you think about it, what else could make the list? Religion? Maybe. But the fact that we could even make the comparison between sports and religion is telling in and of itself. That’s the
+
+scale we’re talking about, and that’s what makes this story so important. If sports fandom can meaningfully improve the day-to-day quality of peoples’ lives, and a critical mass of people already engage in fandom, then we’re looking at a force that can move the wellness needle at a population level. When we think about solutions to pervasive problems like loneliness and polarization, this sort of reach matters.
+ 
+It’s important to note that people can cultivate a sense of belonging through a variety of means. There are many ways to meet people, myriad commonalities to bond over. School, work, and parenting all function as galvanizing agents. So can a shared interest in wine or sneakers or Tarantino movies or reality TV or yoga or CrossFit. But none of them operate at the scale of sports. If we dropped you into a bar anywhere in the country, your chances of bumping into an NFL fan far exceed your chances of meeting, say, a Game of Thrones fan. That’s admittedly an unfair comparison, and that’s the point: nothing compares to the reach of sports. This notion extends beyond borders, too. It’s safe to say that you could have meaningful-if-fleeting interactions with taxi drivers in St. Louis, Stockholm, Shanghai, and Sao Paulo by mentioning Lionel Messi. The same is simply not true of Luke Skywalker or Taylor Swift or the Buddha himself.
+ 
+Why do sports enjoy such scale? First, they’re approachable. You don’t have to be an expert to talk sports, just like you don’t have to be a meteorologist to talk about the weather. Sports offer an easy on-ramp, so even a novice fan can bring up last night’s game around the water cooler and spark a conversation that creates connection. They’re also versatile: they can facilitate a five-second “fast friend” interaction with a stranger on the street and at the same time they can serve as the foundation of your relationship with your father.
+ 
+Second, more so than other interests, sports fandom is easy to signal, which creates entry points for conversation anywhere you go. That’s just not true of muscle cars or baking or woodworking or any other shared interest that can foster a relationship. It’s culturally acceptable — even fashionable — to wear your favorite player’s jersey. But if you go to the grocery store dressed like Iron Man, you’re bound to get some looks. Wear a Cubs hat while hiking in Phoenix, though, and you’re likely to be acknowledged by a stranger with a high-five or a “Go Cubs!”
+ 
+Additionally, sports are as close to a neutral ground as we have in our culture today. Sports are non- ideological in nature. Fandom welcomes all, regardless of race, creed, religion, gender, or socioeconomic status. There are no minimum requirements to be a fan: just come as you are. In our polarized world, the fact that sports offer one of the few “safe” spaces for connection and conversation dramatically extends their reach (and usage rate).
+ 
+The sports world also operates on a reliable, recurring rhythm. Just think about baseball. Major League teams play 162 games every season, each one offering an opportunity to get together, make a call, or just send a text. And there’s always another season on the horizon. This cadence means that fandom is continually renewed. Sports are steadfast, the gift that keeps on giving, continually providing fodder for frequent and consistent social interactions that are good for you, good for others, and good for society.
+ 
+Consider a sports fan’s annual calendar: the year begins with college bowl games and the College Football Playoff, quickly followed by the NFL Playoffs, culminating in what is essentially a national holiday, the Super Bowl. Next up, March Madness captivates the nation for a few weeks, transitioning right into MLB’s opening day. While you’re riding the early waves of baseball season, the NHL and NBA Playoffs rise and crescendo, carrying you through May and June. And then, come
+
+August, you’re preparing for your fantasy football draft. October keeps you busy, tracking the MLB Playoffs, keeping stride with the NFL and college football seasons, and hailing the arrival of the NHL and NBA seasons. That’s your cycle, every year, with soccer, NASCAR, tennis, golf, and MMA events peppered in between. In short: there’s no break from sports. You’re never more than a few weeks away from some major event and the social interaction associated with it. Sports fans tap into a constant flow, all year long.
+ 
+What’s more, the sports-based interactions embedded in that reliable calendar encompass the entire range of human emotion. Fans are not simply trading stats and trivial hot takes; they’re riding emotional waves together. The hope, the expectation, the elation, the disappointment, the frustrations, the trade rumors, the Cinderella stories, the injury updates, the thrill of victory, and the agony of defeat: all are shared emotional experiences that strengthen bonds, forge deep connections over time, and elevate our emotional intelligence. Win or lose, sports ultimately offer fans an opportunity to connect. It doesn’t matter whether we’re celebrating or commiserating: we reap the benefits of fandom just the same.
+ 
+Amidst these multitudes of emotions lies a paradox: sports matter so much to so many, and also not at all. They offer us an experience of competition, with stakes that are simultaneously meaningful and inconsequential. Those tears shed in the stands by a pack of dejected 12-year-olds after their team suffers a shock defeat are as real as the sun that will greet them the very next morning. This inherent contradiction cultivates a playfulness — you can freely trash talk a friend who supports a rival team, all while recognizing that the on-the-field rivalry only serves to deepen your off-the-field friendship.
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 5: INVITE OTHERS INTO YOUR FAN ACTIVITIES BECAUSE FANDOM TAKES THE SOCIAL PRESSURE OFF OF INTERACTIONS  
+ 
+Jamie Wedel knows well the social power of sports. Growing up in small-town-Michigan in the 1970s and 80s, Jamie played baseball, football, and hockey. “I wasn’t super stellar at any of them,” he told us, but at his high school, where kids gravitated into seemingly impenetrable cliques, athletics enabled him to move between them, befriending people from all groups. After graduation, Jamie attended the University of Michigan, earning a degree in computer science and deepening his lifelong, generations-deep connection to the Wolverines. Put it this way: thirty years after his college graduation, Jamie’s Zoom handle is “Wolverine.” His stage name when he plays guitar: also Wolverine. We first met Jamie in the fall of 2018 during a college football focus group. He stood out to us not only because of his obvious enthusiasm for college football, but because he was clearly a social connector: he kept everyone included in the conversation, and by the end of the session, he had invited the whole group to join his family’s college football pool.
+ 
+In a follow-up interview after the focus group, we asked Jamie if we could spend a college football Saturday with him, to witness his fandom in action. That adventure began at his home, in the suburbs of Atlanta, Georgia. There he greeted us at the door, accompanied by a dog wearing a Michigan jersey, whom Jamie had trained to bark whenever anyone yells, “Go Blue!” As we entered his home, ESPN’s College GameDay was already blaring on his enormous TV. But that was only one of many screens in the room: also in play were one other TV, a computer monitor, an iPad, and an iPhone. Somehow, Jamie managed to keep his eye on the Michigan game while simultaneously following several other games, and — most importantly — remaining thoroughly engaged with friends and family members across the country. It quickly became clear to us that Jamie was watching multiple games, gathering snippets of each, so he could use them to connect with his
+
+family and friends. The games appeared to be fodder for conversation. When we ran that theory by him, he confirmed it: “Bingo.”
+ 
+In fact, connection was the impetus behind Jamie’s college football pool. Somewhere around 2015, with his family spread out around the country and his parents aging, Jamie decided he wanted to do more to keep in touch with them. He started with his father, Jerry: “My dad is a man of few words, but sports has been his language. So, it started as a generational thing, just the three of us: my dad, my son, and me. We would make some picks on three or four games. Then my daughter made some picks. Then my mom, Marilyn, she’s always been a sports fan, so she’s like, ‘I want to play.’ Mom doesn’t know as much about football, so it made sense to implement the spread. So, we put together this little worksheet, and we decided, ‘Let’s play five or ten games,’ and it just kind of grew from there.”
+ 
+He goes on: “My wife won one year, my mom won one year, my sister won one year, my daughter won one year. I’ve never won a full season, but that’s not my goal. My goal is bringing people together, enjoying the experience together.”
+ 
+There’s no money involved in the pool, but competition runs high. What are the stakes? Bragging rights amongst the participants by way of a little crown icon next to your name. “We’ve had discussions about money,” Jamie told us. “But my nephew plays and some kids play, and I don’t want that to be the lesson that they learn, that the only reason you do things is for money. You do it for the camaraderie.”
+ 
+The real reward comes in strengthening the bonds between family members. “That’s our base platform that we communicate on, that we all come together on, that we see eye to eye on.” This is a theme that runs through fandom: even in families with complicated dynamics, sports are the holding ground for uncomplicated conversations, shared emotions, and playful competition. As Jamie said, “It’s hard to get it wrong. We’re all on the same wavelength.”
+ 
+For Jamie’s social network, the college football pool is the anchor for interactions, but the text thread is the ship. That’s where all the action happens. Being in the pool gets you in on the text thread, where the dozens of fans Jamie has brought together share articles, photos, personal stories, and the friendly banter you would hear if they were gathered in Jamie’s house, watching a game.
+Unlike the pool, the text thread is not limited to college football. It lights up whenever something notable takes place in the wide world of sports. In other words, it lights up a lot.
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 5: IT STARTS BY RECOGNIZING THE POWER OF FANDOM TO FACILITATE RELATIONSHIPS 
+Fans like Jamie may recognize fandom as a positive social force, but they don’t always understand the nuances of its power. Neither did we, until we thought more critically about it. Today, we understand that fandom facilitates personal relationships, increases social interactions, expands social networks, fosters a sense of belonging, helps people connect with something larger than themselves, and creates heightened levels of openness and trust. Fandom offers a balm for the all- too-familiar pain of loneliness and polarization. While some people are aware of fandom as a social superconductor — and leverage it as such — many more engage in fandom without fully understanding the motivations behind their choices or the cascade of benefits they receive. As a
+
+result, when they try to articulate their passion for sports to others, the conversation falls flat. Here’s a typical scenario:
+ 
+Non-Fan: “Do you have to spend every Sunday watching football?” Fan: “Yeah. It’s what we do in our house.”
+Non-Fan: “It’s just football. Why is it such a big deal?” Fan: “We’re Raiders fans. We’ve gotta root for the team.” Non-Fan: “Can’t you miss this one Sunday?”
+Fan: “We bleed silver and black. We gotta support the team.” Non-Fan: [Insert eyeroll] “It’s just a silly game!”
+In a conversation between fans and non-fans, that line — “It’s just a silly game!” — signals an impasse. Instinctively, a fan knows it’s more than “just a game.” But how can he or she articulate the “more than” to a non-fan? Before we began our inquiry into fandom, we’d shrug and agree to disagree. But now we see it differently. Today’s conversation might look more like this:
+ 
+Non-Fan: “Do you have to spend every Sunday watching football?”
+ 
+Fan: “Yeah. It’s the one time every week that we drop everything else and make time for each other. Things haven’t always been great for my family, but football is something we have always agreed upon. Everybody is there, everybody is engaged: Dad wears his lucky jersey, Mom makes the seven-layer dip, Uncle Matt and Aunt Jeanine always show up, the neighbors usually drop by. Football is the glue that holds us all together, no matter what.”
+ 
+Rather than reaching an impasse, conversations that lay bare the inner workings of fandom can invite non-fans into the world that fans know and love. We hope that understanding the power of fandom will inspire you to use this tool for all its worth, just as Jamie does with his family. In his words, “It’s a bonding experience. It’s a medium to communicate and connect. It’s something we can all watch, something we can all relate to. There’s a vibrational energy that’s shared that you all tap into. It’s extraordinary.” Even when they’re apart, his family feels like they’re together.
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 5: INVITE OTHERS INTO YOUR FAN ACTIVITIES BECAUSE FANDOM TAKES THE SOCIAL PRESSURE OFF OF INTERACTIONS  
+Once you recognize the power of fandom, we hope you will leverage it in your own life. The flywheel of fandom often spins without our awareness. But when we become conscious of it and intentionally lean into it, the power of fandom — and its benefits — increases exponentially. Need an injection of social activity in your life? Invite a couple friends over to watch a game. Feeling disconnected from your peers at work? Start a fantasy league. Need to break the ice with a new client? Ask her about the Roll Tide sticker on her laptop. Want more time with your kids? Take them to a game. Missing your family? Start a group text about your hometown team. Want to break
+
+out of your social bubble? Talk to the people sitting near you at the ballpark. Got a friend you’ve lost touch with? Text her and ask if she watched last night’s game.
+ 
+Fandom offers a spectrum of behaviors — from low-effort to high, from nodding at strangers who signal their fandom, to accepting an invitation to a pick-’em pool, to organizing a tailgate party, to becoming the commissioner for your fantasy league. Wherever your fandom expresses itself, lean into it, and see where it takes you. You may be surprised.
+ 
+For Jamie, the football pool has grown far beyond his original intent. No longer simply a meeting place for family, it’s become a community of sports fans from all walks of life. Why? Because Jamie invited them in. “As you add people into the group,” he said, “they become part of the family.” He has invited his primary care physician, an extra he met on a movie set, a guy who uses a Purdue logo as his avatar on a music trivia game he sometimes plays. When someone shows an interest in college football, Jamie opens the door: “Hey we run this pool …” That sets off a chain reaction. New members bring in their friends, and each addition brings more opportunities for social interactions. Says Jamie, “We realized it had legs when everybody seemed to get more engaged, saying, ‘I’m watching games that I never did before’ or ‘I’m more into college football than I ever was before.’”
+ 
+The experience has impacted Jamie’s fandom as well. “I can’t imagine going back to watching college sports without my friends, without my family, without you [yes, of course we joined] in the pool, without the other members. If you don’t have anybody to share it with …” His voice trailed off, as if that wasn’t a sentence worth finishing.
+ 
+ 
+ 
+Document Title: Fans Have More Friends Book 
+Section/Topic: CHAPTER 5: INVITE OTHERS INTO YOUR FAN ACTIVITIES BECAUSE FANDOM TAKES THE SOCIAL PRESSURE OFF OF INTERACTIONS  
+“Sports give you an easy in to make friends,” Jamie told us, and fandom builds “a bridge to help people.” During the COVID-19 pandemic, Jamie used that bridge to form an abiding friendship with his neighbor, Paula.
+ 
+In the spring of 2020, while much of the country was under “shelter in place” orders, Jamie noticed Paula’s husband walking out to their mailbox. They waved to each other, but didn’t cross the street, due to social-distancing protocols. A couple days later, Jamie noticed an ambulance at Paula’s house. When he checked in to see if the couple needed anything, he learned that Paula had lost her husband to COVID-19.
+ 
+“She’s a friendly person that I could tell was lonely, and my wife really likes her, so it was easy to take over some food.” When protocols allowed, the neighbors set up a card table outside their homes to play a round of Rummikub, with an Atlanta Braves game playing in the background.
+That’s when they discovered they had more than proximity in common: they were all baseball fans. From then on, they synched their card-playing with Braves broadcasts, and they added another fan into the mix: Paula’s sister, Pam, a retired nurse who had lost her husband three years earlier. Now it’s a regular event: “We go over for game night, we put sports on the TV. Now we’re texting each other when something happens, like ‘Oh my god, did you see Acuna got hurt?’”
+ 
+As friendship and fandom deepened, propelling each other forward, Jamie reflected on their impact: “I think sports help people through suffering. Sometimes life can be lonely, but if you know the Braves are coming on at 7:05, it’s not hard to look forward to it, to give yourself a reason to get
+
+excited.” It’s not the game itself Jamie’s looking forward to: it’s the social interactions associated with the game.
+ 
+Plain and simple: if fandom creates a sense of belonging that reverberates through society, then we need to generate more fandom. As fans, we are frontline actors in that mission. The more confident we are in our fandom, the more conscious we are of fandom’s power, the more prepared we are to serve as ambassadors, inviting people into our sports families, using fandom to build bridges across social divisions, and activating it to benefit our communities. Think of sports as a tool you can use, and then ask yourself, “Where do I want to deploy this tool?”
+ 
+At the very least, we hope the insights presented in this book will help you reflect on, understand, and articulate the role sports fandom plays in your life. In those moments when someone challenges — or when you question — your choice to invest in season tickets or lay a bet on your team or watch yet another game with your friends, we hope you will remember exactly what you’re investing in and what fandom means to you.
+ 
+Jamie will be the first to tell you that the real payoff happens when you use sports to foster relationships. What started out as a one-off game night with Paula has become a regular Braves watch party, a thriving group chat, shared trips to games, and rich friendships amongst neighbors. Jamie’s not done though. He has his eye on another neighbor. “She can be very skittish about meeting new people. I’ve been trying to get her to come over. I’m just trying to create unity in the neighborhood.”
+ 
+Imagine if everyone did that.
+
+ 
+
+Document Title: Editorial 
+Section/Topic: Give the Gift of Fandom This Holiday Season
+
+
+Tis the season of “Top 10 gifts for Sports Fans” lists. Before you invest in that City Edition NBA
+jersey, the heated stadium seat, or the keen tailgater’s dream, the self-lighting hibachi, consider
+this: the best gift you can give—to your friends, your family, your community—is fandom itself.
+What do we mean by “the gift of fandom”? We’ll get to that in a minute. But first we need to
+tell you what we don’t mean.
+When the uninitiated think about sports fandom, a slideshow of obnoxious images come to
+mind: fatuous face-painters in the stands, boorish hooligans in the bar, post-victory mobs
+wreaking havoc on city streets. We definitely do not mean that.
+While these behaviors do exist, they represent only a tiny sliver of the fan pie. Yet they get
+more than their fair share of media attention. The unfortunate result: for the outsider looking
+in, fandom is defined by adversarial tribalism.
+That’s not a gift the average person necessarily wants to receive.
+So, what good does fandom offer?
+On the surface level, it offers entertainment—peak human performance, flawless team
+execution, unpredictable human drama. Cue up a highlight reel and you’ll be awed by game-
+winning Hail Mary passes, gravity-defying slam dunks, history-making homeruns, and breath-
+stopping shoot outs.
+What’s not to love about that?
+Add in players’ inspirational backstories, the Cinderella championship runs, the soul-crushing
+defeats, and the impossible come backs, and you have all the makings of a blockbuster
+drama—one that churns out sequels several times a week.
+Like movies, sports offer an escape to a place where high stakes wins and losses can mean so
+much, while also meaning very little. Unlike the real world, in the universe of fandom, we can
+tour the full spectrum of human emotion, without consequence. Better yet: we get to share
+that ride with others.
+Therein lies the real gift of sports fandom: we share it with others.
+Fandom offers countless opportunities for connection within families, among friends, and with
+strangers. In fact, we would posit that this is the primary reason fans engage – not the
+entertainment on the field, between the lines, but the connection in the stands, among the
+fans.
+
+How does this work? Let’s look at families first.
+Families pass fandom down like an heirloom. Generations bond as the elders share the lore of
+their teams, and youngsters learn the rules of the game. As fandom grows, children and adults
+enjoy a common passion on an equal footing. A Lakers game can spark a spirited conversation
+between a seventh grader and a seventy-nine-year-old over the team’s prospects this season.
+While fun in the moment, that conversation does deeper work over the long haul: it nourishes
+the connection between grandchild and grandparent, well after the final buzzer sounds.
+Whether they’re cheering together in the stands, gathering in front of the TV, or blowing up
+each other’s phones with play-by-play commentary from across the country, fandom keeps
+families connected.
+What’s the impact of all this connection?
+According to our research, engaged sports fans are more likely to “greatly value” their
+relationships with their mothers, fathers, and siblings. While 50% of fans say they are “very
+satisfied” with their family life, only 34% of non-fans make the same claim. When asked to rank
+the strength of their relationships with their children who live at home, 85% of non-fans ranked
+their connections at a 5 or 6 on a 6-point scale, versus 93% of the most active sports fans.
+When asked to rank the strength of their relationships with their children who do not live at
+home, 67% of non-fans marked 5 or 6, while 80% of active fans chose the same.
+In other words: fandom provides fertile ground to grow cherished memories and meaningful
+family bonds.
+The numbers indicate that sports fandom helps us establish and sustain friendships too. The
+average non-fan has 21.1 friends, while dedicated sports fans average 35.6 friends. Fans also
+report that they “greatly value” these friendships more than non-fans do. Sports give fans more
+opportunities to engage with theses friends, as well: non-fans average 204 social interactions
+per month, while the most active fans average 454 interactions.
+What’s up with these numbers? Think of it this way: When are we most likely to send a
+spontaneous text to a friend? When we see something that reminds us of them. Friends who
+share fandom are reminded of each other thousands of times a year, kicking up a flurry of texts:
+“Did you see that pass last night?”
+“Mahomes-Kelce?”
+“LeBron or MJ?”
+“I can’t believe they won.”
+
+These seemingly trivial exchanges have an underlying power. They galvanize relationships.
+Small connections, built up over time, amount to lifelong histories of wins and losses,
+questionable calls, heartbreaking trades, playful rivalries, and legendary plays.
+More importantly, these simple missives open the door to deeper connections, like this:
+“Dude! That dunk! Are you watching this game?”
+“Oh yeah. Wouldn’t miss it. Watching with the kids.”
+“That’s great. How the little ones doing?”
+Sharing fandom keeps our relationships current, so when life takes an unexpected turn, fans
+don’t need to reach far for help. Their friends are already there.
+That is a gift worth giving.
+Fandom enables us to build bridges beyond our families and immediate circle of friends as well.
+How? Sports are ubiquitous in our culture, and fandom is easily signaled. An emblem on a
+baseball cap, a sticker on a laptop, a team name on a license plate rim—these are opportunities
+to start a conversation.
+Sports fans understand this. Fandom operates as a social superconductor, enabling people to
+make meaningful connections not only across entrenched team loyalties but across social
+categories such as age, race, class, religion, gender, and yes, even politics. Set a sports fan down
+in any bar, restaurant, party, or hotel lobby with a game on a screen, in any city, state, or
+country, and we will find community.
+What many fans—and the people who love them—don’t understand is how important these
+casual interactions can be. In a time when loneliness is ranked among the top public health
+threats, fandom brings people together. Among high-value sports fans, 61% strongly agree that
+they “feel close to people,” as opposed to 37% of non-fans. In fact, across five wellness
+markers—happiness, satisfaction, optimism, gratitude, and confidence—people’s overall
+wellness scores rise as their involvement in sports fandom increases.
+Time and again, through tens of thousands of questionnaires, focus groups, and interviews, no
+matter how we cut the data, the results are undeniably clear: in a fragmented, divided world,
+giving the gift of fandom means giving the gift of connection. The wellness benefits cascade
+from there.
+How, exactly, do we share this gift?
+If you’re already a fan, lean into your sports connections: send the “Did you see that?” text, join
+the Fantasy Football league, say yes to the next invite to a watch party. Better yet, host a watch
+party for fans and non-fans alike, be they friends, family, coworkers, or people you just met at
+
+the sidelines of your kid’s soccer game. Set out the snacks, turn on the TV, then sit back and
+watch the social connections grow.
+Especially during the holidays, when the acuity of loneliness runs high, the smallest gesture
+makes a difference. Fandom serves as a conduit for kindness. Ask the guy in the Knicks beanie
+how his team’s doing this year. Commiserate over a recent loss with the person wearing your
+team’s gear. Invite a newcomer to this country into the world of American Football. If you’re a
+newcomer here yourself, find the spot in your town where people gather to watch your game.
+Not a fan? That’s okay. Get curious. Ask neighbors about the Packers flag flying in their front
+yard. Dig deeper than surface-level fan chat. Find out how they became fans, what it means to
+them, if they’d mind if you join them for a game.
+There are countless ways to share the gift of fandom. Of course, you can also buy those season
+tickets, bid on that autographed photo, or give your kid a team jersey emblazoned with her
+own name. But no matter how you wrap it up, know this: long after the season ends, the ink on
+that photo fades, or your six-year-old grows out of that jersey, what remains is the real gift of
+fandom: the relationships it generates.
+
+
+Document Title: Editorial 
+Section/Topic: The Benefits of Fandom for Kids 
+
+I want to share a couple of the insights I've gleaned along the way that I think will be beneficial to the people in this room. And I want to start with a common misconception about fandom. People often think that fandom is fanaticism. Invariably, that word comes up whenever the topic of fans comes up. And equally, we have this cultural conception of the face painter. This is the guy who comes to mind when we think of sports fans.
+And I've crisscrossed the country. I've talked to tens of thousands of fans in my 20 years of experience. And yes, I've encountered a couple face painters in my day, but the reason I push back so hard on this misconception of what fandom is all about is because it clouds our perception of what fandom can be because the face painter is fatuous and juvenile and a little boorish, and we don't really want to be around him. But I was having conversations with fans that were completely different than that. It was wholesome, it was sentimental, it was heartfelt. And I began to realize that there was something really profound to sports fandom that we were missing because we would just focus on the guy in the front row spilling beer with his face painted. And so I want to reframe how we think about fandom. That's really what my mission is now.
+And I want to start by reframing it through this idea of community. If there's a sort of central thesis that I have to be a fan is to be a part of a community. And I look around the room now and the lights are kind of bright, but I look around the room and I see some nodding heads because fans, I think intuitively recognize that fandom is about community. I just think the only reason that I high five a stranger is sports. That's what he was just touching on. The only reason that I talked to my dad for better or for worse sports, right? This is the through line that ties all the interactions I was having with fans together, this idea of community. And I was seeing this profound stuff happen. And again, it was sort of diametrically opposed to the cultural conception that we have of fans.
+So I want to change the conversation, but to change the conversation, I needed some evidence. So I set about to try and prove this out, and I devised a way to look at people's social networks, how many friends they had, and then I cut that data by their fandom. So on this chart, it's fairly simple, I promise I'll explain on the left, you have on the right, you have the universe of fans from low value, less engaged, your casual fan, all the way up to the high value, the more engaged, the avid fan. And what we see here is a positive relationship between ones engagement in sports fandom and the number of friends that those people have on average. It's not just that they have more friends, they actually value those relationships more. They interact with those people more frequently. And the same is true of familial relationships as well.
+So another way to say that is the bigger the fan, the more likely you are to have a positive relationship with your mother, your father, your siblings, et cetera. So there's a lot going on here. This idea of community manifests in some of this data. And so we pressed further, we were encouraged. And what we found as we continue down this road of understanding the effects of this socializing is that it's not just that fans have more friends, it's that socializing, those friends actually impacted their wellbeing. So we also know now that engaged fans are happier, they're more optimistic, they're more confident, they're more trusting of others, they're more satisfied in life, they're more grateful. They're more likely to give to charity. They're more likely to be registered to vote. They're more likely to read for leisure across every conceivable, objectively good thing. Fans show themselves as different from non-fans.
+And I think it's because of the socialization. So I want to draw a line under that idea, because I think that's the most important thing. It's not some magic elixir that sports has. It's not some sports magic wand that makes these people happier. It's simply the fact that sports provide a structure where they can socialize. And the socialization is the thing that's doing all this hard work. It is the thing that's improving their lives. And it stands to reason then that if you are happier, you're less depressed. We've looked into that. If you have more friends, you're going to be less lonely. We've looked into that and these ideas of loneliness and depression, this is what brings us to teens. I'm not the first person to cite some of these stats today. I think basically what I've been hearing time and time again is the kids we kind of all recognize are not, all right.
+So these are some stats that we took from the American time use study and the CDC. And we see, and I'm not the first person to cite this again, time with friends is down for kids, and time spent alone is up and alongside that depression and rates of suicide are also up. So that's just sort of the objective reality. And so this is floating around in the air. I'm not the first person to tell you guys this. And at the same time that this is floating around the air, that this is in all the headlines, I happen to be sitting on this trove of data that says fans are happier, less lonely, they have more friends, they're less depressed. And so I wanted to then investigate, well, maybe this impact extends into teens. And so we polled about 5,000 teens a few months ago, and what we found is that the data is exactly mirror in teens as what it is in adults.
+That is teen fans. The bigger the fan, the more friends, the more likely they are to hang out with those people more often. The more likely they value those relationships, the better off their relationships are at home, so on and so forth. And then very specifically, they're less depressed. Now, to measure depression, we use something called the personal health questionnaire. It's a nine question battery that clinicians use as a diagnostic tool to diagnose rates of depression in their patients. And if you score a 10 or higher on this set of questions, you would be considered having moderate depression or worse, the depression level goes up, the higher the score. And what we see here is that same positive relationship existing specifically when it comes to teen mental health, teen depression, the rate of depression goes down as you engage in sports fandom. And again, it's not just the sports fandom that's doing it, it's the socializing that's doing it.
+That's what's doing the hard work here. So teen fans are less depressed. This got us thinking what other extracurricular activities might have a similar effect? So we looked at a bunch of different extracurriculars. Now, I know it's probably hard to read this chart from where you're sitting. Let me help you. It comes as no surprise to this room. I'm sure that sports has the most positive impact on mental health among teens. So kids who participate in sports between the ages of 13 and 17, 18% of that group experiences moderate depression or worse. That stands in stark contrast to, let's pick on photography. 41% of kids who are in the photography club experience moderate depression or worse. Now, this isn't a disparage photography club. I myself was a member of the photography club in high school. It's all well and good, right? But it doesn't do the same job and the same hard work that sports does.
+And I think everyone in this room is already a firm believer of that. So I don't have to belabor that point. But the thing that I do want to focus on here is the chart here is relatively straightforward, but there's a lot happening beneath the data. Gender plays a role. Social media use plays a role. There's a lot going on. The simplest way to think about this though is to simply recognize that the activities on the left, that is where the kids suffer less depression, are the activities that specifically pull you into in real life, interpersonal interactions regularly. That's the secret sauce here. The things on the right, the things where the kids suffer worse, depression rates, they don't do that. They might do that, but they don't necessarily do that. Sports necessarily does that. And that's really the magic here. That's what's going on.
+And so just like when we started this, I wanted to reframe the conversation around fandom. What I'm arguing for here is that we also reframe the conversation around sports participation for teens. There's a lot of good reasons why kids should participate. And I've heard doctors talk about cortisol levels, and that's all. Well, good. I would not dispute that. I want my kids to participate for those same reasons. But the real thing that's doing the hard work to improve the mental health of teen participants is simply the fact that sports pulls you in to these in real life interpersonal interactions. You frequently have to join the team, come together, deal with things, and have friendships that are predicated upon sports. That's really what's going on here.
+But here's the thing, everybody has to stop playing at some point. We all have to retire. And what we see is that the benefits of participation subside when we stopped playing. So to prove this out, we pulled a group of 20 somethings, talked about 3000 adults who were in their twenties. And we separated the groups in a few different ways. First, we looked at adults in their twenties who participated in sports as kids and adults in their twenties who did not participate in sports as kids. And then we looked at their rates of mental health. And you know what? They were basically the same because when the kids who played stopped playing, the benefits of playing went away, they weren't on the team anymore. But we resorted that same data and we looked at their level of fandom. And as we've seen now, the higher the level of fan engagement, the better the mental health.
+And so I would encourage everyone in this room to think about the lessons that we're instilling. And I think everyone in this room is very familiar with that idea. We're talking about improving the lives of kids today in the present tense, but we're also talking about using sport to instill lessons that will serve them better in their life as adults. How can we help these kids lead prosperous lives as adults? And I would argue that fandom is one of the keys. It's one of the keys to social success. You're basically handing over the social skill of fandom to the kids. And so I would encourage everyone in this room to encourage the kids that you encounter and the programs that you support to focus on fandom. Focus on helping kids learn the skill of how to use sports to socialize. That's exactly the thing that will benefit them in their later years. And what we're really talking about here is sports. As a social structure, fandom is the language we use to navigate that structure and reap its benefits. And so I want everyone in this room to remember that when they talk about getting the kids together to watch the game, not just for practice, but help them learn the skills of fandom, because that's the thing that will benefit them in the future. Thank you very much.
+

@@ -1,8 +1,33 @@
 import streamlit as st
+from utils.openai_client import client
+from utils.prompts import base_system_prompt
+from utils.faiss_helpers import load_index_and_metadata
+from sentence_transformers import SentenceTransformer
+import numpy as np
 
-st.set_page_config(page_title="FanLabs GPT", layout="centered")
+st.title("💬 FanLabs GPT")
 
-st.title("📚 Welcome to FanLabs GPT")
-st.markdown("""
-Choose a tool from the sidebar to get started.
-""")
+user_query = st.text_input("Ask a question about your data")
+
+if user_query:
+    index, metadata = load_index_and_metadata()
+    model = SentenceTransformer("all-MiniLM-L6-v2")
+    query_embedding = model.encode([user_query])
+    
+    D, I = index.search(np.array(query_embedding).astype("float32"), k=5)
+
+    retrieved_chunks = [metadata[i]["text"] for i in I[0]]
+    context = "\n\n".join(retrieved_chunks)
+
+    messages = [
+        {"role": "system", "content": base_system_prompt},
+        {"role": "user", "content": f"{context}\n\n{user_query}"}
+    ]
+
+    response = client.chat.completions.create(
+        model="gpt-4",
+        messages=messages
+    )
+
+    st.markdown("### Response")
+    st.write(response.choices[0].message.content)
