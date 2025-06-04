@@ -13,4 +13,4 @@ venv/
 .env
 
 # Streamlit secrets (optional if stored locally)
-.streamlit/secrets.toml
+.streamlit/secrets.toml.env
