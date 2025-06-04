@@ -2,6 +2,14 @@ import streamlit as st
 from utils.openai_client import client
 from utils.prompts import base_system_prompt
 from utils.faiss_helpers import load_index_and_metadata
+
+from huggingface_hub import login
+import os
+
+# Hugging Face login
+hf_token = st.secrets.get("HUGGINGFACE_TOKEN") or os.getenv("HUGGINGFACE_TOKEN")
+login(token=hf_token)
+
 from sentence_transformers import SentenceTransformer
 import numpy as np
 
