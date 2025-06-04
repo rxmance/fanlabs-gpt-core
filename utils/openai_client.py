@@ -1,10 +1,6 @@
-import openai
 import streamlit as st
+from openai import OpenAI
 import os
-from dotenv import load_dotenv
 
-# Load .env only for local testing (won't affect Streamlit Cloud)
-load_dotenv()
-
-api_key = st.secrets.get("OPENAI_API_KEY", os.getenv("OPENAI_API_KEY"))
-client = openai.OpenAI(api_key=api_key)
+api_key = st.secrets.get("OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=api_key)
