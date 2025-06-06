@@ -5,23 +5,25 @@ from utils.faiss_helpers import load_index_and_metadata
 
 from huggingface_hub import login
 import os
+
+# ✅ Correct Hugging Face token from nested secrets
+hf_token = st.secrets["huggingface"]["token"] or os.getenv("HUGGINGFACE_TOKEN")
+login(token=hf_token)
+
 from sentence_transformers import SentenceTransformer
 import numpy as np
 
-# ✅ Streamlit and Hugging Face secrets
-openai_api_key = st.secrets["openai"]["api_key"]
-hf_token = st.secrets.get("HUGGINGFACE_TOKEN") or os.getenv("HUGGINGFACE_TOKEN")
-login(token=hf_token)
-
 st.title("💬 FanLabs GPT")
+
 user_query = st.text_input("Ask a question about your data")
 
 if user_query:
     index, metadata = load_index_and_metadata()
     model = SentenceTransformer("all-MiniLM-L6-v2")
     query_embedding = model.encode([user_query])
-
+    
     D, I = index.search(np.array(query_embedding).astype("float32"), k=5)
+
     retrieved_chunks = [metadata[i]["text"] for i in I[0]]
     context = "\n\n".join(retrieved_chunks)
 
