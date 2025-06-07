@@ -1,8 +1,12 @@
-# Core libraries only — no pip/setuptools/wheel
+# Fix Python environment for compatibility
+pip==23.2.1
+setuptools==68.2.2
+wheel==0.42.0
+
+# Core libraries
 openai==0.28.1
 streamlit==1.25.0
 numpy==1.25.2
 faiss-cpu==1.11.0
 huggingface-hub==0.14.1
 python-dotenv==1.0.1
-sentence-transformers==2.2.2
