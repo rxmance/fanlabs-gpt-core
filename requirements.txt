@@ -1,15 +1,11 @@
-# Core dependencies
-streamlit==1.25.0
-openai==0.28.1
-faiss-cpu==1.11.0
+pip==24.0
+wheel==0.42.0
+setuptools==68.2.2
+
 sentence-transformers==2.2.2
 huggingface-hub==0.14.1
 numpy==1.25.2
-setuptools==68.2.2
+faiss-cpu==1.11.0
 python-dotenv==1.0.1
-
-# 🔧 Compatibility patches (fix Streamlit Cloud bug)
-rich==13.7.0
-pygments==2.15.1
-markdown-it-py==2.2.0
-mdurl==0.1.0
+openai==0.28.1
+streamlit==1.25.0
